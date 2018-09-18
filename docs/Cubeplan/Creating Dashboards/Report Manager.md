@@ -1,9 +1,7 @@
 
 # Reports Manager
 
--   Created  [December 12, 2016](http://www.cubeplat.com:8081/wiki/knowledge-base/reports-manager-2/)
--   Author  [Lucia Benvenuto](http://www.cubeplat.com:8081/wiki/en/author/lbenvenuto/ "Lucia Benvenuto")
--   Category  [Creating new dashboards](http://www.cubeplat.com:8081/wiki/en/article-categories/creating-new-dashboards/)
+- Category  [Creating new dashboards](http://www.cubeplat.com:8081/wiki/en/article-categories/creating-new-dashboards/)
 
 Contents  [[hide](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#)]
 
@@ -92,5 +90,5 @@ Once you have selected the file, a window will open from which you can select th
 If the option [![impor3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor3.png)  is enabled, the dashboards inside a report will be imported inside the report as well. If the option is disabled, the dashboards will be imported individually.  
 Once you have selected the dashboards, click  [![impor4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor4.png). They will be displayed in the Reports Manager.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0NTQwNzQ4XX0=
+eyJoaXN0b3J5IjpbMTI4OTIzODI2N119
 -->
