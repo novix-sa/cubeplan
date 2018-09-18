@@ -11,7 +11,7 @@ You can start editing a dashboard by clicking on it. At the center of the block 
 
 
 
-ola
+
 
 |||
 |:--|:--|
@@ -28,6 +28,6 @@ ola
 |[![boton8](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton8.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton8.png)|**Magic:** When you search a node, you may be able to find any type of node. This button allows you to create  [button](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Button-type_block),  [module](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Module-type_block), and  [formnode-types of block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Variable_input_node). These are not available for the previous buttons.|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjA3NjU2OTgsMTgyNzcyMzQyMywyMT
-UxNjI0MTgsMTY3ODg0ODE4MV19
+eyJoaXN0b3J5IjpbNzkzNTc1OTI0LDE4Mjc3MjM0MjMsMjE1MT
+YyNDE4LDE2Nzg4NDgxODFdfQ==
 -->
