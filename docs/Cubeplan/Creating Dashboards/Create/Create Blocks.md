@@ -13,6 +13,11 @@ You can start editing a dashboard by clicking on it. At the center of the block 
 |   |   |
 |   |   |
 
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 [![botones](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/botones.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/botones.png)
 |![boton1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton1.png)|When you search a node, you will view those which are Variable type. If you click on it, they will be displayed in a table.  for a detailed explanation on how to edit tables.|
@@ -51,5 +56,6 @@ You can start editing a dashboard by clicking on it. At the center of the block 
 
 **Magic:** When you search a node, you may be able to find any type of node. This button allows you to create  [button](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Button-type_block),  [module](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Module-type_block), and  [formnode-types of block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Variable_input_node). These are not available for the previous buttons.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1MTYyNDE4LDE2Nzg4NDgxODFdfQ==
+eyJoaXN0b3J5IjpbODg3MzE5NzA3LDIxNTE2MjQxOCwxNjc4OD
+Q4MTgxXX0=
 -->
