@@ -13,8 +13,7 @@ You can start editing a dashboard by clicking on it. At the center of the block 
 
 
 
-
-|||
+|Icon|Description|
 |:--|:--|
 |[![boton1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton1.png)|**Table:** When you search a node, you will view those which are Variable type. If you click on it, they will be displayed in a table.  [Click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/table-2/)  for a detailed explanation on how to edit tables.|
 |[![boton2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton2.png)|**Graph:** As it is for tables, when you search a node you will view those which are Variable type. If you select a node, it will be shown in a graph.  [Click here]|(http://www.cubeplat.com:8081/wiki/en/knowledge-base/column-2/)  for detailed information on how to edit all types of graphs.
@@ -26,6 +25,6 @@ You can start editing a dashboard by clicking on it. At the center of the block 
 |[![boton8](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton8.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton8.png)|**Magic:** When you search a node, you may be able to find any type of node. This button allows you to create  [button](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Button-type_block),  [module](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Module-type_block), and  [formnode-types of block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Variable_input_node). These are not available for the previous buttons.|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDg1NzA0NSwxODI3NzIzNDIzLDIxNT
-E2MjQxOCwxNjc4ODQ4MTgxXX0=
+eyJoaXN0b3J5IjpbMjU5MTE2ODY0LDE4Mjc3MjM0MjMsMjE1MT
+YyNDE4LDE2Nzg4NDgxODFdfQ==
 -->
