@@ -8,8 +8,9 @@ In this following sections you will learn how to use the Cubeplan User Guide, th
 
 -   [How to Access to Cubeplan](Cubeplan/How%20to%20Access)
    
--   [How to Use this Manual](Cubeplan/How%20to%20Use)
+-   [How to Use this Manual](Cubeplan/How%20to%20Use%20this%20Manual)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDk5NTAzNSwtMTg5ODQ1MjcyNF19
+eyJoaXN0b3J5IjpbNDgwMTE3NDUzLC05NDQ5OTUwMzUsLTE4OT
+g0NTI3MjRdfQ==
 -->
