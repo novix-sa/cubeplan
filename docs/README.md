@@ -10,27 +10,19 @@ In this following sections you will learn how to use the Cubeplan User Guide, th
    
 -   [How to Use this Manual](Cubeplan/How%20to%20Use%20this%20Manual)
 
-About Cubeplan  
-In this section you will learn how to use the Cubeplan User Guide, system requirements, and steps to follow tuse Cubeplan. It also includes information about different Cubeplan editions.
-
--   [User Requirements](http://www.cubeplat.com:8081/wiki/knowledge-base/about-cubeplan/#User_Requirements)
--   [How to access to Cubeplan](http://www.cubeplat.com:8081/wiki/knowledge-base/about-cubeplan/#How_to_access_Cubeplan)
--   [Cubeplan Editions](http://www.cubeplat.com:8081/wiki/knowledge-base/about-cubeplan/#Cubeplan_editing)
--   [How to use this manual](http://www.cubeplat.com:8081/wiki/knowledge-base/about-cubeplan/#How_to_use_the_Knowledge_Base)
-
-First steps in Cubeplan  
+# First steps in Cubeplan  
 This section presents the basic concepts such as: 1) log in, log out and edit profile, 2) main window, property bar and widgets.
 
 -   [Sign up](http://www.cubeplat.com:8081/wiki/en/knowledge-base/sign-up)
 -   [Summary](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/)
 
-Model Manager  
+# Model Manager  
 In this section, you will learn how to manage different files on which the model is based. You can duplicate folders, create new ones, rename existing files, move a file to a different location, compress and unzip a file, upload new files or download existing ones.
 
 -   [File Manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-2/)
 -   [File Manager Toolbar](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/)
 
-Creating dashboards  
+# Creating dashboards  
 In this section, you will learn how to create, mark dashboards and reports as favorite in the Reports Manager. Then you will learn how to creat a dashboards with different types of blocks and graphs.
 
 -   [Reports Manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/)
@@ -45,7 +37,7 @@ In this section, you will learn how to create, mark dashboards and reports as fa
 -   [Type of charts](http://www.cubeplat.com:8081/wiki/en/knowledge-base/types-of-charts/)
     -   [Charts toolbar](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-toolbar/)
 
-Editing Models  
+# Editing Models  
 In this section, you will learn how to edit the model preferences. You will learn to evaluate nodes, navigate into the diagram, import and export modules. Then you will create nodes with functiones and number format. These nodes can have a style, color, size and alignment. At the end, the Function List.  
 
 -   [Model preferences](http://www.cubeplat.com:8081/wiki/en/knowledge-base/model-preferences/)
@@ -57,12 +49,12 @@ In this section, you will learn how to edit the model preferences. You will lear
 -   [Shortcuts](http://www.cubeplat.com:8081/wiki/en/knowledge-base/shortcuts-2/)
 -   [Function list](http://www.cubeplat.com:8081/wiki/en/knowledge-base/function-list/)
 
-Schedule Task  
+# Schedule Task  
 This module will allow you program tasks to run the day and at the scheduled time.
 
 -   [Model task](http://www.cubeplat.com:8081/wiki/en/knowledge-base/model-tasks/)
 
-Workflow  
+# Workflow  
 In this section, you will learn to create a task and assign it to another user. As well, you will learn to create and manage status, groups and transitions.
 
 -   [Gantt](http://www.cubeplat.com:8081/wiki/en/knowledge-base/gantt-2/)
@@ -70,7 +62,7 @@ In this section, you will learn to create a task and assign it to another user. 
 -   [Transitions manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/transitions-manager/)
 -   [Task groups manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/task-group-manager/)
 
-Knowledge Base  
+# Knowledge Base  
 In this module, you will find and add documentation of the model and its modules.
 
 -   [Knowledge base](http://www.cubeplat.com:8081/wiki/en/knowledge-base/knowledge-base-2/)
@@ -92,6 +84,6 @@ Other features
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMyMjcwNCwtODYyMzI3OTc0LC05ND
+eyJoaXN0b3J5IjpbLTQ0MDkyMTY1NSwtODYyMzI3OTc0LC05ND
 Q5OTUwMzUsLTE4OTg0NTI3MjRdfQ==
 -->
