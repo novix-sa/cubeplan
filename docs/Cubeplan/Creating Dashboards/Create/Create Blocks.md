@@ -22,14 +22,11 @@ hola
 |   |   |   |   |   |
 
 [![botones](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/botones.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/botones.png)
-|![boton1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton1.png)|When you search a node, you will view those which are Variable type. If you click on it, they will be displayed in a table.  for a detailed explanation on how to edit tables.|
-|--|--|
-| 21 | 22 |
-
-[![boton1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton1.png)
-
-**Table:** When you search a node, you will view those which are Variable type. If you click on it, they will be displayed in a table.  [Click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/table-2/)  for a detailed explanation on how to edit tables.
-
+|![boton1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton1.png)|When you search a node, you will view those which are Variable type. If you click on it, they will be displayed in a table. [Click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/table-2/) for a detailed explanation on how to edit tables.|
+|:--|:--|
+|[![boton1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton1.png)
+|**Table:** When you search a node, you will view those which are Variable type. If you click on it, they will be displayed in a table.  [Click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/table-2/)  for a detailed explanation on how to edit tables.
+|
 [![boton2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton2.png)
 
 **Graph:** As it is for tables, when you search a node you will view those which are Variable type. If you select a node, it will be shown in a graph.  [Click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/column-2/)  for detailed information on how to edit all types of graphs.
@@ -58,6 +55,6 @@ hola
 
 **Magic:** When you search a node, you may be able to find any type of node. This button allows you to create  [button](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Button-type_block),  [module](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Module-type_block), and  [formnode-types of block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Variable_input_node). These are not available for the previous buttons.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzcyMzQyMywyMTUxNjI0MTgsMTY3OD
-g0ODE4MV19
+eyJoaXN0b3J5IjpbLTQ5NDcyMDU0MSwxODI3NzIzNDIzLDIxNT
+E2MjQxOCwxNjc4ODQ4MTgxXX0=
 -->
