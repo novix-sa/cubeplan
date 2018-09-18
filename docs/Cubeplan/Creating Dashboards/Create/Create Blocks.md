@@ -15,14 +15,7 @@ You can start editing a dashboard by clicking on it. At the center of the block 
 
 hola
 
-|   |**strong text** descripcions   |   |   |   |
-|---|:---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
-[![botones](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/botones.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/botones.png)
-|![boton1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton1.png)|When you search a node, you will view those which are Variable type. If you click on it, they will be displayed in a table. [Click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/table-2/) for a detailed explanation on how to edit tables.|
+|||
 |:--|:--|
 |[![boton1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton1.png)
 |**Table:** When you search a node, you will view those which are Variable type. If you click on it, they will be displayed in a table.  [Click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/table-2/)  for a detailed explanation on how to edit tables.
@@ -35,6 +28,6 @@ hola
 |[![boton8](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton8.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton8.png)|**Magic:** When you search a node, you may be able to find any type of node. This button allows you to create  [button](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Button-type_block),  [module](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Module-type_block), and  [formnode-types of block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Variable_input_node). These are not available for the previous buttons.|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzYzODMxOSwxODI3NzIzNDIzLDIxNT
-E2MjQxOCwxNjc4ODQ4MTgxXX0=
+eyJoaXN0b3J5IjpbMjUzNjI4NDY1LDE4Mjc3MjM0MjMsMjE1MT
+YyNDE4LDE2Nzg4NDgxODFdfQ==
 -->
