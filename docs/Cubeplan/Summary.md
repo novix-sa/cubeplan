@@ -1,10 +1,5 @@
 
 # Summary
-
--   Created  [December 16, 2016](http://www.cubeplat.com:8081/wiki/knowledge-base/summary-2/)
--   Author  [Lucia Benvenuto](http://www.cubeplat.com:8081/wiki/en/author/lbenvenuto/ "Lucia Benvenuto")
--   Category  [First steps in Cubeplan](http://www.cubeplat.com:8081/wiki/en/article-categories/first-steps-in-cubeplan/)
-
 Contents  [[hide](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#)]
 
 -   [1  Home](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#Home)
@@ -135,5 +130,5 @@ You can resume a session by clicking [![session3](http://www.cubeplat.com:8081/w
 
 Once you have customized the home page, click [![conf](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png) again and then click  [![conf3](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png). The changes will be applied and the home page will be ready to use.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQ0NTMwNDhdfQ==
+eyJoaXN0b3J5IjpbNTY5NTgyOTk5XX0=
 -->
