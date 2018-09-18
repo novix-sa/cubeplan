@@ -1,13 +1,11 @@
 # About Cubeplan
-### A unique CPM platform specifically designed to empower Business Analytics and Integrated Planning
+### A unique Corporate PerfM platform specifically designed to empower Business Analytics and Integrated Planning
 Cubeplan is a server-client application intended for supporting Business Analytics, Budgeting, Integrated Business Planning, Strategic Planning and Business Control at corporate level
 
 In this following sections you will learn how to use the Cubeplan User Guide, the system requirements and the steps to follow in order to use Cubeplan.
 
 -   [User Requirements ](/Cubeplan/User%20Requirements)
-
 -   [How to Access to Cubeplan](Cubeplan/How%20to%20Access)
-   
 -   [How to Use this Manual](Cubeplan/How%20to%20Use%20this%20Manual)
 
 # First steps in Cubeplan  
@@ -68,7 +66,7 @@ In this module, you will find and add documentation of the model and its modules
 -   [Knowledge base](http://www.cubeplat.com:8081/wiki/en/knowledge-base/knowledge-base-2/)
 -   [Create post](http://www.cubeplat.com:8081/wiki/en/knowledge-base/new-post/)
 
-Security options  
+# Security options  
 In this section, you will find different modules to user administration.
 
 -   [User Manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/user-manager-2/)
@@ -76,14 +74,13 @@ In this section, you will find different modules to user administration.
 -   [Role Manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/role-manager-2/)
 -   [Session Manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/session-manager-2/)
 
-Other features
-
+# Other features
 -   [Function List](http://www.cubeplat.com:8081/wiki/en/knowledge-base/function-list/)
 -   [Cubecalc](http://www.cubeplat.com:8081/wiki/en/knowledge-base/cubecalc-installation-2/)
 -   [Shortcuts](http://www.cubeplat.com:8081/wiki/en/knowledge-base/shortcuts-2/)
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDkyMTY1NSwtODYyMzI3OTc0LC05ND
+eyJoaXN0b3J5IjpbLTY1OTkxNjE3NiwtODYyMzI3OTc0LC05ND
 Q5OTUwMzUsLTE4OTg0NTI3MjRdfQ==
 -->
