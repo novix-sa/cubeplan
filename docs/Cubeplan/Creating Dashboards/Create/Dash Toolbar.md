@@ -8,20 +8,14 @@ Contents  [[hide](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dashboard-
 The dashboards display the following toolbar:
 
 ‍‍
-
+|||
+|
 [![](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/08/herr1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/08/herr1.png)
 
-|[![herr2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr2.png)
-
-**Edit dashboard:** it enables the edit mode of the dashboard. It displays some buttons through which you can  [create different types of blocks](http://www.cubeplat.com:8081/wiki/en/knowledge-base/create-blocks/). It also displays the  [toolbar of the block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/blocks-toolbar/)  through which you can create a customized dashboard.
-
-[![herr3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr3.png)
-
-**Refresh dashboard:** it refreshes or updates the dashboard.
-
-[![herr4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr4.png)
-
-**More dashboards:** it displays a list with all the dashboards in the Reports Manager.
+|[![herr2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr2.png)|**Edit dashboard:** it enables the edit mode of the dashboard. It displays some buttons through which you can  [create different types of blocks](http://www.cubeplat.com:8081/wiki/en/knowledge-base/create-blocks/). It also displays the  [toolbar of the block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/blocks-toolbar/)  through which you can create a customized dashboard.|
+|--|--|
+|[![herr3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr3.png)|**Refresh dashboard:** it refreshes or updates the dashboard.|
+|[![herr4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr4.png)|**More dashboards:** it displays a list with all the dashboards in the Reports Manager.|
 
 [![herr5](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr5.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr5.png)
 
@@ -77,5 +71,5 @@ Type your comment in the text box. Once you finish, click  [![coment2](http://ww
 
 If your comment is about a specific block inside the dashboard, you can type your comment and click  [![coment3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/coment3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/coment3.png)  to place it in said block. Your comment will immediately appear in the Comments window. When you pass the cursor over it, it will show the block it addresses.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDY5NDM0OV19
+eyJoaXN0b3J5IjpbLTEyNjI1NzE2MTddfQ==
 -->
