@@ -6,7 +6,7 @@
 -   Category  [Create dashboards](http://www.cubeplat.com:8081/wiki/en/article-categories/create-dashboards/)
 
 You can start editing a dashboard by clicking on it. At the center of the block you will find the following buttons:
-
+[![botones](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/botones.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/botones.png)
 
 
 
@@ -25,6 +25,6 @@ You can start editing a dashboard by clicking on it. At the center of the block 
 |[![boton8](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton8.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton8.png)|**Magic:** When you search a node, you may be able to find any type of node. This button allows you to create  [button](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Button-type_block),  [module](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Module-type_block), and  [formnode-types of block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Variable_input_node). These are not available for the previous buttons.|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MTE2ODY0LDE4Mjc3MjM0MjMsMjE1MT
-YyNDE4LDE2Nzg4NDgxODFdfQ==
+eyJoaXN0b3J5IjpbMTYyODQ1MTk2OSwxODI3NzIzNDIzLDIxNT
+E2MjQxOCwxNjc4ODQ4MTgxXX0=
 -->
