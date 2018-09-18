@@ -1,8 +1,8 @@
 # About Cubeplan
-### A unique Corporate PerfM platform specifically designed to empower Business Analytics and Integrated Planning
+### A unique Corporate Performance Management (CPM) platform specifically designed to empower Business Analytics and Integrated Planning
 Cubeplan is a server-client application intended for supporting Business Analytics, Budgeting, Integrated Business Planning, Strategic Planning and Business Control at corporate level
 
-In this following sections you will learn how to use the Cubeplan User Guide, the system requirements and the steps to follow in order to use Cubeplan.
+In the following sections you will learn how to use the Cubeplan User Guide, the system requirements and the steps to follow in order to use Cubeplan.
 
 -   [User Requirements ](/Cubeplan/User%20Requirements)
 -   [How to Access to Cubeplan](Cubeplan/How%20to%20Access)
@@ -81,6 +81,6 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTkxNjE3NiwtODYyMzI3OTc0LC05ND
+eyJoaXN0b3J5IjpbLTg1ODg2ODk3MywtODYyMzI3OTc0LC05ND
 Q5OTUwMzUsLTE4OTg0NTI3MjRdfQ==
 -->
