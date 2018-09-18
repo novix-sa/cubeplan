@@ -2,7 +2,7 @@
 ### A unique CPM platform specifically designed to empower Business Analytics and Integrated Planning
 Cubeplan is a server-client application intended for supporting Business Analytics, Budgeting, Integrated Business Planning, Strategic Planning and Business Control at corporate level
 
-In this following sections you will learn how to use the Cubeplan User Guide, the system requirements and the steps to follow to use Cubeplan.
+In this following sections you will learn how to use the Cubeplan User Guide, the system requirements and the steps to follow in order to use Cubeplan.
 
 -   [User Requirements ](/Cubeplan/User%20Requirements)
 
@@ -11,6 +11,6 @@ In this following sections you will learn how to use the Cubeplan User Guide, th
 -   [How to Use this Manual](Cubeplan/How%20to%20Use%20this%20Manual)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwMTE3NDUzLC05NDQ5OTUwMzUsLTE4OT
-g0NTI3MjRdfQ==
+eyJoaXN0b3J5IjpbLTg2MjMyNzk3NCwtOTQ0OTk1MDM1LC0xOD
+k4NDUyNzI0XX0=
 -->
