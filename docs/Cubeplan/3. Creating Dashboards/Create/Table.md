@@ -1,10 +1,5 @@
 
 # Table
-
--   Created  [December 15, 2016](http://www.cubeplat.com:8081/wiki/knowledge-base/table-2/)
--   Author  [Lucia Benvenuto](http://www.cubeplat.com:8081/wiki/en/author/lbenvenuto/ "Lucia Benvenuto")
--   Category  [Graphs](http://www.cubeplat.com:8081/wiki/en/article-categories/graphs/)
-
 [![tab1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/tab1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/tab1.png)
 
 The property window for this type of graph is the following:
@@ -67,5 +62,5 @@ You must specify the from-to values for the range, color, size, and font type. Y
 If you want to add a shape, you must select the type and its position.  
 You can enable the option to open a dashboard when clicking the cell value. In that case, you must select the dashboard and then whether it will open in a new tab or in the current one –this closes the dashboard that is currently in the tab.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzY2NDU0MF19
+eyJoaXN0b3J5IjpbLTYzNzUwODY2NywxNDgzNjY0NTQwXX0=
 -->
