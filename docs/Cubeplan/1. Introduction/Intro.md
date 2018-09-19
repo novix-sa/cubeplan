@@ -20,15 +20,11 @@ Go to  [create role](http://www.cubeplat.com:8081/wiki/en/knowledge-base/role-ma
 
 ## How to use the Knowledge Base
 
-Experts in modeling will be able to have an intuitive approach to Cubeplan. However, this base offers information about Cubeplan that all users can find useful.
-
-First of all, you must choose your language [![language](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/12/language.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/12/language.png)
-
 In the Knowledge Base you will find a list of all Cubeplan features arranged by sections. To search an article, enter a word to serve as a filter in the search box on the top margin. The results will show all articles containing said word. You can choose the article you need.
 
 [![busquedaesp](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/12/busquedaesp.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/12/busquedaesp.png)
 
 Another way to access the content of a specific article is by searching in the categories list on the right margin in the Knowledge Base.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDAwOTI3OV19
+eyJoaXN0b3J5IjpbODI0Mzk3Mjc4LDEzODQwMDkyNzldfQ==
 -->
