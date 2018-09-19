@@ -1,4 +1,3 @@
-
 # Scenario Manager
 
 Contents  [[hide](http://www.cubeplat.com:8081/wiki/en/knowledge-base/scenario-manager-2/#)]
@@ -26,5 +25,5 @@ Open the tab  [![esc6](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016
 
 It containes all previous scenarios. You select the ones you want to load and then click  [![sce7](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/sce7.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/sce7.png).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjMzMjQwMl19
+eyJoaXN0b3J5IjpbMjA2Mjc3MjA2NF19
 -->
