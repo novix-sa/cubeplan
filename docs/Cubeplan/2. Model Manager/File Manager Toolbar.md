@@ -1,6 +1,7 @@
 # File Manager Toolbar
 The file manager toolbar offers many buttons with different functions; these are:
 [![](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/07/toolbar.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/07/toolbar.png)
+
 |Icon|Description|
 |--|--|
 |[![new](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/new.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/new.png)|**New folder:**  it creates a new folder in the tree section of your choice.|
@@ -79,7 +80,7 @@ The window is shown in the picture below. In this example, there is a created us
 
 Once you selected the group, click OK.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjUwNTk4MCwtMjAyNDkwNDY1NCwtMT
-gyNTI4Njc4MCwxNjAxMDk2ODM2LDgyMDgyNDA0NywtMTk1NzU2
-NDA0OF19
+eyJoaXN0b3J5IjpbLTE3ODA2Nzc4NzQsMTc1MjUwNTk4MCwtMj
+AyNDkwNDY1NCwtMTgyNTI4Njc4MCwxNjAxMDk2ODM2LDgyMDgy
+NDA0NywtMTk1NzU2NDA0OF19
 -->
