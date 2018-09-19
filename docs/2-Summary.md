@@ -1,4 +1,3 @@
-
 # Summary
 Contents  [[hide](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#)]
 
@@ -130,5 +129,6 @@ You can resume a session by clicking [![session3](http://www.cubeplat.com:8081/w
 
 Once you have customized the home page, click [![conf](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png) again and then click  [![conf3](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png). The changes will be applied and the home page will be ready to use.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEyOTgwMzUsMzIyODY4NzAzXX0=
+eyJoaXN0b3J5IjpbMzIyODY4NzAzLC0xMTQxMjk4MDM1LDMyMj
+g2ODcwM119
 -->
