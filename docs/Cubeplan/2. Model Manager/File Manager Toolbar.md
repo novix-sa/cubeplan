@@ -1,5 +1,5 @@
 
-# File manager toolbar
+# File Manager Toolbar
 The file manager toolbar offers many buttons with different functions; these are:
 
 [![](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/07/toolbar.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/07/toolbar.png)
@@ -82,6 +82,6 @@ The window is shown in the picture below. In this example, there is a created us
 
 Once you selected the group, click OK.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzA0NjAsODIwODI0MDQ3LC0xOTU3NT
-Y0MDQ4XX0=
+eyJoaXN0b3J5IjpbMTYwMTA5NjgzNiw4MjA4MjQwNDcsLTE5NT
+c1NjQwNDhdfQ==
 -->
