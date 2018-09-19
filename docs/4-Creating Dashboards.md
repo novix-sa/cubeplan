@@ -1,5 +1,5 @@
 
-Creating dashboards  
+#Creating dashboards  
 In this section, you will learn how to create, mark dashboards and reports as favorite in the Reports Manager. Then you will learn how to creat a dashboards with different types of blocks and graphs.
 
 -   [Reports Manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/)
@@ -14,5 +14,5 @@ In this section, you will learn how to create, mark dashboards and reports as fa
 -   [Type of charts](http://www.cubeplat.com:8081/wiki/en/knowledge-base/types-of-charts/)
     -   [Charts toolbar](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-toolbar/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzI0NTEzOF19
+eyJoaXN0b3J5IjpbMjEyNTA4MTU0N119
 -->
