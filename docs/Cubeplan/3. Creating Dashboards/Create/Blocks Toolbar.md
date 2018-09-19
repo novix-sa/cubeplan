@@ -1,4 +1,4 @@
-# Blocks toolbar
+# Blocks Toolbar
 
 -   Created  [December 13, 2016](http://www.cubeplat.com:8081/wiki/knowledge-base/blocks-toolbar/)
 -   Author  [Lucia Benvenuto](http://www.cubeplat.com:8081/wiki/en/author/lbenvenuto/ "Lucia Benvenuto")
@@ -52,5 +52,5 @@ When you click  [![herr12](http://www.cubeplat.com:8081/wiki/wp-content/uploads/
 **Full screen:** it fits the view of the block on the screen.**Toogle detail:** it shows/hides the index details.**Column total:** it shows/hides all the columns.**Row total:**  it shows/hides all the rows.**Export:** go to [export a node](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dashboard-toolbar-2/#Export_node).**  
 Table & Graph:**  if there is a table, you can create a block with its graph, and vice versa. You can place this block to the right of or under the first one.**Knowledge base:** it allows you to read, create, or edit the information of the node. Go to  [knowledge base](http://www.cubeplat.com:8081/wiki/en/knowledge-base/knowledge-base-2/).**Workflow:** it gives you access to [workflow](http://www.cubeplat.com:8081/wiki/en/knowledge-base/gantt-2/).**View in diagram:** it allows you to view the node in the  [influence diagram](http://www.cubeplat.com:8081/wiki/en/knowledge-base/influence-diagram/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODc3MjEwNF19
+eyJoaXN0b3J5IjpbNzg3MTAwNTA0XX0=
 -->
