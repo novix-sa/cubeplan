@@ -17,34 +17,29 @@ The file manager toolbar offers many buttons with different functions; these are
 |[![default](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/default.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/default.png)|**Make default company model:**  this button will be available when you click a file .ana. It allows you to select a model as default to open every time a user group log in.|
 
 
-## Upload and Download
-
-### Upload
-
+## Upload
 There are two ways of uploading a file:
 
 Yo can click [![upload](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/upload.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/upload.png), or you can drag and drop the file to the file manager window, as shown in the picture.  
 [![drag](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/drag.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/drag.png)
 
-### Download
+## Download
 
 First, you select the file and then you click  [![download](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png).
 
-## Move to… Copy in… Duplicate
-
-### Move to…
+## Move to…
 
 You can move a file from one place in the file tree to another. First, you must select the file you want to move. Then, click  [![options](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/options.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/options.png) and select the option  [![file manager](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/move-to.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/move-to.png). The window shown in the picture below will open; there, you select the place in the tree you want to move the file to.  
 [![move](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/move.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/move.png)  
 Seleccionar el destino y hacer click en Yes. Inmediatamente el archivo desaparecerá del lugar original y aparecerá en el destino.
 
-### Copy in…
+## Copy in…
 
 You can copy a file in a different place in the tree file. First, you must select the file you want to copy. Then, click  [![options](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/options.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/options.png) and select the option  [![copy to](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/copy-to.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/copy-to.png). The window shown in the picture below will open; there, you select the place in the tree you want to copy the file in.  
 [![copy](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/copy.png)  
 ](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/copy.png)Once you selected the final place for the copy, click Yes. The file will immediately appear in the place you chose, and the original will remain in its place.
 
-### Duplicate
+## Duplicate
 
 You can duplicate a file in your workspace. First, you must select the file. Then, click  [![options](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/options.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/options.png) and select the option  [![duplicate](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/duplicate.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/duplicate.png). The following confirmation request will appear on screen:  
 [![duplicate1](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/duplicate1.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/duplicate1.png)  
@@ -80,7 +75,7 @@ The window is shown in the picture below. In this example, there is a created us
 
 Once you selected the group, click OK.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA2Nzc4NzQsMTc1MjUwNTk4MCwtMj
-AyNDkwNDY1NCwtMTgyNTI4Njc4MCwxNjAxMDk2ODM2LDgyMDgy
-NDA0NywtMTk1NzU2NDA0OF19
+eyJoaXN0b3J5IjpbLTE3NTM3ODQ0MzIsLTE3ODA2Nzc4NzQsMT
+c1MjUwNTk4MCwtMjAyNDkwNDY1NCwtMTgyNTI4Njc4MCwxNjAx
+MDk2ODM2LDgyMDgyNDA0NywtMTk1NzU2NDA0OF19
 -->
