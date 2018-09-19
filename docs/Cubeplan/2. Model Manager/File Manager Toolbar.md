@@ -1,12 +1,6 @@
 
 # File manager toolbar
 
--   Created  [December 21, 2016](http://www.cubeplat.com:8081/wiki/knowledge-base/file-manager-toolbar/)
--   Author  [Lucia Benvenuto](http://www.cubeplat.com:8081/wiki/en/author/lbenvenuto/ "Lucia Benvenuto")
--   Category  [Model manager](http://www.cubeplat.com:8081/wiki/en/article-categories/model-manager/)
-
-Contents  [[hide](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#)]
-
 -   [1  Upload and Download](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Upload_and_Download)
     -   [1.1  Upload](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Upload)
     -   [1.2  Download](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Download)
@@ -132,5 +126,5 @@ The window is shown in the picture below. In this example, there is a created us
 
 Once you selected the group, click OK.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc1NjQwNDhdfQ==
+eyJoaXN0b3J5IjpbODIwODI0MDQ3LC0xOTU3NTY0MDQ4XX0=
 -->
