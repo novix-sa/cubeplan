@@ -1,9 +1,9 @@
-
 ## User Requirements
-
-You need the following mínimum configuration in order to use Cubeplan:
-
--   Updated version of web browser (Chrome, Explorer or Firefox)
+Cubeplan is a rich internet application running on a server client architecture.
+In order to use Cubeplan the following minimum configuration is required:
+-  Updated version of web browser (Chrome, Explorer or Firefox)
+-  A valid Cubeplan account
+-  Internet Access
 
 ## How to access Cubeplan
 
@@ -33,5 +33,5 @@ In the Knowledge Base you will find a list of all Cubeplan features arranged by 
 
 Another way to access the content of a specific article is by searching in the categories list on the right margin in the Knowledge Base.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDU4OTgwMl19
+eyJoaXN0b3J5IjpbLTE2NDA5ODMxNTNdfQ==
 -->
