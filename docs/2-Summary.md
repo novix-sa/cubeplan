@@ -1,30 +1,15 @@
 # Summary
-Contents  [[hide](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#)]
-
--   [1  Home](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#Home)
--   [2  Properties tool](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#Properties_tool)
--   [3  Widget editor](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#Widget_editor)
-    -   [3.1  Last models used](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#Last_models_used)
-    -   [3.2  My last dashboards](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#My_last_dashboards)
-    -   [3.3  Tiles area](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#Tiles_area)
-    -   [3.4  My reports](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#My_reports)
-    -   [3.5  My sessions](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#My_sessions)
-
 ## Home
-
 The home page can be customized to meet the user’s need. You can add widgets to see the different modules within the system as well as the last dashboards and models used.
-
 [Widget editor](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#Widget_editor)
 
 ## Properties tool
-
 The properties bar is located on the left margin of the window. You can use it to access all the modules within the system; however, you have access only to the modules enabled in your profile. The bar contains the following buttons:
 
-[![home](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/home.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/home.png)
-
-**Home**: It leads to the home page.
-
-![file manager](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/file-manager.png)
+|Icon|Description|
+|--|--|
+|[![home](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/home.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/home.png)|**Home**: It leads to the home page.|
+|![file manager](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/file-manager.png)
 
 **File manager:** It leads to the file manager window, where you find all the models.  [(Go to file manager)](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-2/)
 
@@ -129,6 +114,6 @@ You can resume a session by clicking [![session3](http://www.cubeplat.com:8081/w
 
 Once you have customized the home page, click [![conf](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png) again and then click  [![conf3](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png). The changes will be applied and the home page will be ready to use.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyODY4NzAzLC0xMTQxMjk4MDM1LDMyMj
-g2ODcwM119
+eyJoaXN0b3J5IjpbODc4Mjc4MDcxLDMyMjg2ODcwMywtMTE0MT
+I5ODAzNV19
 -->
