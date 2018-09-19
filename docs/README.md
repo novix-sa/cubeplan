@@ -14,7 +14,7 @@ This section presents the basic concepts such as: 1) log in, log out and edit pr
 -   [Sign up](http://www.cubeplat.com:8081/wiki/en/knowledge-base/sign-up)
 -   [Summary](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/)
 
-# Model Manager  
+# File Manager  
 In this section, you will learn how to manage different files on which the model is based. You can duplicate folders, create new ones, rename existing files, move a file to a different location, compress and unzip a file, upload new files or download existing ones.
 
 -   [File Manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-2/)
@@ -81,6 +81,6 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc3Nzc3MDYsLTg1ODg2ODk3MywtOD
-YyMzI3OTc0LC05NDQ5OTUwMzUsLTE4OTg0NTI3MjRdfQ==
+eyJoaXN0b3J5IjpbLTYyOTg1NTUzMSwtODU4ODY4OTczLC04Nj
+IzMjc5NzQsLTk0NDk5NTAzNSwtMTg5ODQ1MjcyNF19
 -->
