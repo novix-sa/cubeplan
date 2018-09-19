@@ -1,7 +1,7 @@
 # Introduction
 In the following sections you will learn how to use the Cubeplan User Guide, the system requirements and the steps to follow in order to use Cubeplan.
 
--   [User Requirements ](/Cubeplan/Introduction/Intro/#User-Requirements)
+-   [User Requirements ](/Cubeplan/Introduction/Intro/#user-requirements)
 -   [How to Access to Cubeplan](Cubeplan/Introduction/Intro/#how-to-access-cubeplan)
 -   [How to Use this Manual](Cubeplan/Introduction/Intro/#how-to-use-the-knowledge-base)
 
@@ -78,6 +78,7 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU5ODIxMjAsLTEzNzUzNTU0Niw4MD
-IwMTIyMjgsMjA5MTY5MTY2MCwtNTM3ODY1NF19
+eyJoaXN0b3J5IjpbODgzMzIyNDU2LC0xNTY1OTgyMTIwLC0xMz
+c1MzU1NDYsODAyMDEyMjI4LDIwOTE2OTE2NjAsLTUzNzg2NTRd
+fQ==
 -->
