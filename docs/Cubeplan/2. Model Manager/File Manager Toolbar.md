@@ -15,20 +15,12 @@
 The file manager toolbar offers many buttons with different functions; these are:
 
 [![](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/07/toolbar.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/07/toolbar.png)
-
-[![new](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/new.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/new.png)
-
-**New folder:**  it creates a new folder in the tree section of your choice.
-
-[![upload](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/upload.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/upload.png)
-
-**Upload:** it allows you to upload a file in the tree section of your choice. There are two ways to upload a file; for more information,  [click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Upload).
-
-[![edit](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/edit.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/edit.png)
-
-**Rename:**  it allows you to rename a file.
-
-[![download](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)
+|Icon|Description|
+|--|--|
+|[![new](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/new.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/new.png)|**New folder:**  it creates a new folder in the tree section of your choice.|
+|[![upload](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/upload.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/upload.png)|**Upload:** it allows you to upload a file in the tree section of your choice. There are two ways to upload a file; for more information,  [click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Upload).|
+|[![edit](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/edit.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/edit.png)|**Rename:**  it allows you to rename a file.|
+|[![download](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)
 
 **Download:**it allows you to dowload any file. For more information,  [click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Download).
 
@@ -126,5 +118,6 @@ The window is shown in the picture below. In this example, there is a created us
 
 Once you selected the group, click OK.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwODI0MDQ3LC0xOTU3NTY0MDQ4XX0=
+eyJoaXN0b3J5IjpbOTE4NDk1NDc4LDgyMDgyNDA0NywtMTk1Nz
+U2NDA0OF19
 -->
