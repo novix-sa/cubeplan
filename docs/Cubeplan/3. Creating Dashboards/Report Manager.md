@@ -1,28 +1,10 @@
-
 # Reports Manager
 
-- Category  [Creating new dashboards](http://www.cubeplat.com:8081/wiki/en/article-categories/creating-new-dashboards/)
-
-Contents  [[hide](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#)]
-
--   [1  Reports Manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#Reports_Manager)
--   [2  Share dashboard or report](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#Share_dashboard_or_report)
-    -   [2.1  Share internal](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#Share_internal)
-        -   [2.1.1  Not shared](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#Not_shared)
-        -   [2.1.2  Share with Everybody](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#Share_with_Everybody)
-        -   [2.1.3  Share with..](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#Share_with)
-    -   [2.2  Share external](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#Share_external)
-        -   [2.2.1  Link](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#Link)
-        -   [2.2.2  Embed](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#Embed)
--   [3  Export or import dashboards or reports](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#Export_or_import_dashboards_or_reports)
--   [4  Import dashboards/reportes](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/#Import_dashboardsreportes)
-
 ## Reports Manager
+<iframe width="721" height="480" src="https://www.youtube.com/embed/-Gxm8UDAkBk?list=PLhZdWvtJsasTSZeamYJ6TIs_ApZPD4ex-" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Share dashboard or report
-
 With a right click on the window some tools will be displayed. You should click Share.
-
 [![Screenshot_3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2018/01/Screenshot_3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2018/01/Screenshot_3.png)
 
 A window will open:  
@@ -90,5 +72,5 @@ Once you have selected the file, a window will open from which you can select th
 If the option [![impor3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor3.png)  is enabled, the dashboards inside a report will be imported inside the report as well. If the option is disabled, the dashboards will be imported individually.  
 Once you have selected the dashboards, click  [![impor4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor4.png). They will be displayed in the Reports Manager.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTIzODI2N119
+eyJoaXN0b3J5IjpbLTE3Mzc4MDIxMDEsMTI4OTIzODI2N119
 -->
