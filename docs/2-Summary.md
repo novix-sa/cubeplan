@@ -9,11 +9,8 @@ The properties bar is located on the left margin of the window. You can use it t
 |Icon|Description|
 |--|--|
 |[![home](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/home.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/home.png)|**Home**: It leads to the home page.|
-|![file manager](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/file-manager.png)
-|**File manager:** It leads to the file manager window, where you find all the models.  [(Go to file manager)](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-2/)|
-|![schedule](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/schedule.png)
-
-|**Schedule task:**  It gives access to the module where you can set up the automatic tasks to  [run models](http://www.cubeplat.com:8081/wiki/en/knowledge-base/model-tasks/), OleDB and ETL. After it has been run it can be seen by other users, or just closed.|
+|![file manager](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/file-manager.png)|**File manager:** It leads to the file manager window, where you find all the models.  [(Go to file manager)](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-2/)|
+|![schedule](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/schedule.png)|**Schedule task:**  It gives access to the module where you can set up the automatic tasks to  [run models](http://www.cubeplat.com:8081/wiki/en/knowledge-base/model-tasks/), OleDB and ETL. After it has been run it can be seen by other users, or just closed.|
 |[![analysis](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/09/analysis.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/09/analysis.png)|**Analysis:**  It leads to the analysis module. [(Go to analysis)](http://www.cubeplat.com:8081/wiki/en/knowledge-base/analysis-2/)|
 |[![diagram](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/diagram.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/diagram.png)|**Influence diagram:**  It shows the influence diagram of the model on which you are working. This option is available only when a model is open.  [(Go to Influence diagram)](http://www.cubeplat.com:8081/wiki/en/knowledge-base/influence-diagram/)|
 |[![reports](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/reports.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/reports.png)|**Reports manager:** It gives access to the module that contains all the dashboards and reports created by the user and those that have been shared with the user. This option is available only when a model is open.  [(Go to reports manager)](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/)|
@@ -100,6 +97,6 @@ You can resume a session by clicking [![session3](http://www.cubeplat.com:8081/w
 
 Once you have customized the home page, click [![conf](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png) again and then click  [![conf3](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png). The changes will be applied and the home page will be ready to use.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE3ODAyMDcsMzIyODY4NzAzLC0xMT
-QxMjk4MDM1XX0=
+eyJoaXN0b3J5IjpbMTEzODIyMzM5NSwzMjI4Njg3MDMsLTExND
+EyOTgwMzVdfQ==
 -->
