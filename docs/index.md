@@ -8,8 +8,8 @@ In the following sections you will learn how to use the Cubeplan User Guide, the
 # First steps in Cubeplan  
 This section presents the basic concepts such as: 1) log in, log out and edit profile, 2) main window, property bar and widgets.
 
--   [Sign up](Cubeplan/Introduction/Sign%20up)
--   [Summary](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/)
+-   [Sign up](/Cubeplan/Introduction/Sign%20up)
+-   [Summary](/2-Summary)
 
 # File Manager  
 In this section, you will learn how to manage different files on which the model is based. You can duplicate folders, create new ones, rename existing files, move a file to a different location, compress and unzip a file, upload new files or download existing ones.
@@ -78,7 +78,7 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNjM4NTA5LC0xNTY1OTgyMTIwLC0xMz
+eyJoaXN0b3J5IjpbODIyNDMzNjI0LC0xNTY1OTgyMTIwLC0xMz
 c1MzU1NDYsODAyMDEyMjI4LDIwOTE2OTE2NjAsLTUzNzg2NTRd
 fQ==
 -->
