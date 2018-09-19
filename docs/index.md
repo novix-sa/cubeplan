@@ -24,13 +24,13 @@ In this section, you will learn how to create, mark dashboards and reports as fa
 -   Create dashboards
     -   [Create blocks](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/create-blocks/)
     -   [Type of blocks](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/block-types/)
-    -   [Blocks toolbar](http://www.cubeplat.com:8081/wiki/en/knowledge-base/blocks-toolbar/)
-    -   [Time frame](http://www.cubeplat.com:8081/wiki/en/knowledge-base/time-frame-2/)
-    -   [Index Synchronization](http://www.cubeplat.com:8081/wiki/en/knowledge-base/index-and-drilldown-drillup-synchronixation/)
-    -   [Scenario Manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/scenario-manager-2/)
-    -   [Dashboards toolbar](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dashboard-toolbar-2/)
--   [Type of charts](http://www.cubeplat.com:8081/wiki/en/knowledge-base/types-of-charts/)
-    -   [Charts toolbar](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-toolbar/)
+    -   [Blocks toolbar](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/blocks-toolbar/)
+    -   [Time frame](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/time-frame-2/)
+    -   [Index Synchronization](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/index-and-drilldown-drillup-synchronixation/)
+    -   [Scenario Manager](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/scenario-manager-2/)
+    -   [Dashboards toolbar](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/dashboard-toolbar-2/)
+-   [Type of charts](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/types-of-charts/)
+    -   [Charts toolbar](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/charts-toolbar/)
 
 # Editing Models  
 In this section, you will learn how to edit the model preferences. You will learn to evaluate nodes, navigate into the diagram, import and export modules. Then you will create nodes with functiones and number format. These nodes can have a style, color, size and alignment. At the end, the Function List.  
@@ -78,7 +78,7 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTE3MTk3MCw4MTM4NDM4NjQsLTE2OD
+eyJoaXN0b3J5IjpbMTc3NTA5NDUyNCw4MTM4NDM4NjQsLTE2OD
 QxMzIwODksLTE1NjU5ODIxMjAsLTEzNzUzNTU0Niw4MDIwMTIy
 MjgsMjA5MTY5MTY2MCwtNTM3ODY1NF19
 -->
