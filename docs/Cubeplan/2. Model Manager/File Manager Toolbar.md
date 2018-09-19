@@ -20,32 +20,16 @@ The file manager toolbar offers many buttons with different functions; these are
 |[![new](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/new.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/new.png)|**New folder:**  it creates a new folder in the tree section of your choice.|
 |[![upload](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/upload.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/upload.png)|**Upload:** it allows you to upload a file in the tree section of your choice. There are two ways to upload a file; for more information,  [click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Upload).|
 |[![edit](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/edit.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/edit.png)|**Rename:**  it allows you to rename a file.|
-|[![download](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)
-
-**Download:**it allows you to dowload any file. For more information,  [click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Download).
-
-[![delete](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/delete.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/delete.png)
-
-**Delete:** you can select one or more files and click this button to delete them.
-
-[![unzip](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/unzip.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/unzip.png)
-
-**Unzip here:** you can select one or more zipped files and click this button to unzip them.
-
-[![zip](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/zip.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/zip.png)
-
-**Zip here:**  you can select one or more files and click this button to zip them.
-
-[![copy my](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/copy-my.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/copy-my.png)
-
-**Copy to my workspace:** it allows you to copy files to your workspace from the public workspace or other user’s. To do so, you must select the file you want to copy and click this button. The files will immediately appear in your workspace.
-
-[![options](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/options.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/options.png)
-
-It displays the following options:  
+|[![download](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)|**Download:**it allows you to dowload any file. For more information,  [click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Download).|
+|
+[![delete](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/delete.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/delete.png)|**Delete:** you can select one or more files and click this button to delete them.|
+|[![unzip](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/unzip.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/unzip.png)|**Unzip here:** you can select one or more zipped files and click this button to unzip them.|
+|[![zip](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/zip.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/zip.png)|**Zip here:**  you can select one or more files and click this button to zip them.|
+|[![copy my](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/copy-my.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/copy-my.png)|**Copy to my workspace:** it allows you to copy files to your workspace from the public workspace or other user’s. To do so, you must select the file you want to copy and click this button. The files will immediately appear in your workspace.|
+|[![options](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/options.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/options.png)|It displays the following options:  
 –  [Copy in..](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Copy_in8230)  
 –  [Move to..](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Move_to8230)  
-–  [Duplicate.](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Duplicate)
+–  [Duplicate.](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Duplicate)|
 
 [![permisos](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/permisos.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/permisos.png)
 
@@ -118,6 +102,6 @@ The window is shown in the picture below. In this example, there is a created us
 
 Once you selected the group, click OK.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NDk1NDc4LDgyMDgyNDA0NywtMTk1Nz
-U2NDA0OF19
+eyJoaXN0b3J5IjpbMTE4ODc0NzgyMiw4MjA4MjQwNDcsLTE5NT
+c1NjQwNDhdfQ==
 -->
