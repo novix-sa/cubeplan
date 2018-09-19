@@ -13,8 +13,9 @@ If you switch the view to mozaic view [![view](http://162.252.81.163:8081/wiki/w
 
 ### **Open a model**
 
-To open a model, you must doble click a file .ana, as shown in the picture:  
+To open a model, you must double click a file .ana, as shown in the picture:  
 [![abrir](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/abrir.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/abrir.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgxNDczMDQsMTA1NjgzODkwMF19
+eyJoaXN0b3J5IjpbMTA4ODc2MDM2NSwtMTA3ODE0NzMwNCwxMD
+U2ODM4OTAwXX0=
 -->
