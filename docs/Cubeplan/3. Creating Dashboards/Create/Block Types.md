@@ -1,24 +1,4 @@
 # Block types
-
--   Created  [December 12, 2016](http://www.cubeplat.com:8081/wiki/knowledge-base/block-types/)
--   Author  [Lucia Benvenuto](http://www.cubeplat.com:8081/wiki/en/author/lbenvenuto/ "Lucia Benvenuto")
--   Category  [Create dashboards](http://www.cubeplat.com:8081/wiki/en/article-categories/create-dashboards/)
-
-Contents  [[hide](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#)]
-
--   [1  GIS Map-type block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#GIS_Map-type_block)
-    -   [1.1  New layer](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#New_layer)
-    -   [1.2  Edit layer](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Edit_layer)
-        -   [1.2.1  Map events](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Map_events)
-        -   [1.2.2  Zoom setting](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Zoom_setting)
--   [2  Text-type block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Text-type_block)
--   [3  Button-type block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Button-type_block)
--   [4  Diagram-type block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Diagram-type_block)
--   [5  Module-type block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Module-type_block)
--   [6  Filter-type block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Filter-type_block)
--   [7  Selector-type block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Selector-type_block)
--   [8  Variable input node](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/#Variable_input_node)
-
 ## GIS Map-type block
 
 Click the button  [![boton7](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton7.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/boton7.png) to create a GIS Map-type block.
@@ -317,5 +297,5 @@ When you create a block, its default view is the following:
 [![inp2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/inp2.png)  
 ](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/inp2.png)To change it, you should change enter a different value in the text field and then click  [![bot](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/bot.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/bot.png)  to save the changes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjE4Nzg3Nl19
+eyJoaXN0b3J5IjpbMTExMDQ1NzQyM119
 -->
