@@ -6,7 +6,7 @@ The file manager toolbar offers many buttons with different functions; these are
 |[![new](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/new.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/new.png)|**New folder:**  it creates a new folder in the tree section of your choice.|
 |[![upload](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/upload.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/upload.png)|**Upload:** it allows you to upload a file in the tree section of your choice. There are two ways to upload a file; for more information,  [click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Upload).|
 |[![edit](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/edit.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/edit.png)|**Rename:**  it allows you to rename a file.|
-|[![download](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)|**Download:**it allows you to dowload any file. For more information,  [click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Download).|
+|[![download](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/download.png)|**Download:** it allows you to dowload any file. For more information,  [click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Download).|
 |[![delete](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/delete.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/delete.png)|**Delete:** you can select one or more files and click this button to delete them.|
 |[![unzip](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/unzip.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/unzip.png)|**Unzip here:** you can select one or more zipped files and click this button to unzip them.|
 |[![zip](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/zip.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/zip.png)|**Zip here:**  you can select one or more files and click this button to zip them.|
@@ -79,6 +79,7 @@ The window is shown in the picture below. In this example, there is a created us
 
 Once you selected the group, click OK.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQ5MDQ2NTQsLTE4MjUyODY3ODAsMT
-YwMTA5NjgzNiw4MjA4MjQwNDcsLTE5NTc1NjQwNDhdfQ==
+eyJoaXN0b3J5IjpbMTc1MjUwNTk4MCwtMjAyNDkwNDY1NCwtMT
+gyNTI4Njc4MCwxNjAxMDk2ODM2LDgyMDgyNDA0NywtMTk1NzU2
+NDA0OF19
 -->
