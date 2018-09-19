@@ -43,7 +43,8 @@ First, click [![conf](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03
 
 To your right you will find the buttons described below, these can be moved around and placed in any position within the window.
 
-### [![wid1](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid1.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid1.png)Last models used
+### Last models used 
+[![wid1](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid1.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid1.png)
 
 By placing this widget in the home page you will have a window displaying the last models used by the user. It will look like this:
 
@@ -86,6 +87,6 @@ You can resume a session by clicking [![session3](http://www.cubeplat.com:8081/w
 
 Once you have customized the home page, click [![conf](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png) again and then click  [![conf3](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png). The changes will be applied and the home page will be ready to use.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzExNzUwNywzMjI4Njg3MDMsLTExND
+eyJoaXN0b3J5IjpbMTI3Mzg4MjA1MSwzMjI4Njg3MDMsLTExND
 EyOTgwMzVdfQ==
 -->
