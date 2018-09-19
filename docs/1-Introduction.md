@@ -4,9 +4,9 @@ It is designed in a is a server-client application intended for supporting Busin
 
 In the following sections you will learn how to use the Cubeplan User Guide, the system requirements and the steps to follow in order to use Cubeplan.
 
--   [User Requirements ](/Cubeplan/User%20Requirements)
--   [How to Access to Cubeplan](Cubeplan/How%20to%20Access)
--   [How to Use this Manual](Cubeplan/How%20to%20Use%20this%20Manual)
+-   [User Requirements ](/Cubeplan/Introduction/User%20Requirements)
+-   [How to Access to Cubeplan](Cubeplan/Introduction/How%20to%20Access)
+-   [How to Use this Manual](Cubeplan/Introduction/How%20to%20Use%20this%20Manual)
 
 # First steps in Cubeplan  
 This section presents the basic concepts such as: 1) log in, log out and edit profile, 2) main window, property bar and widgets.
@@ -81,5 +81,5 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUwODAxNDldfQ==
+eyJoaXN0b3J5IjpbLTUzMTQ0NDcyMCwtMTI0NTA4MDE0OV19
 -->
