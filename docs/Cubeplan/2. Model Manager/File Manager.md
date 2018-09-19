@@ -1,4 +1,3 @@
-
 # File manager
 
 This window allows you to manage all files and models. It looks like this:
@@ -18,5 +17,5 @@ If you switch the view to mozaic view [![view](http://162.252.81.163:8081/wiki/w
 To open a model, you must doble click a file .ana, as shown in the picture:  
 [![abrir](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/abrir.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/abrir.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjgzODkwMF19
+eyJoaXN0b3J5IjpbLTEwODE0ODUzOCwxMDU2ODM4OTAwXX0=
 -->
