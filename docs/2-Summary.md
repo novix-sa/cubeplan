@@ -45,22 +45,22 @@ To your right you will find the buttons described below, these can be moved arou
 
 ### Last models used 
 [![wid1](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid1.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid1.png)
-
 By placing this widget in the home page you will have a window displaying the last models used by the user. It will look like this:
 
 [![last1](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/last1.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/last1.png)
 
 ----------
 
-### [![wid2](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid2.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid2.png)My last dashboards
-
+### My last dashboards
+[![wid2](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid2.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid2.png)
 By placing this widget in the home page you will be able to see a window displaying the last dashboards created by the used. It will look like this:
 
 [![lastdb](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/lastdb.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/lastdb.png)
 
 ----------
 
-### [![wid3](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid3.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid3.png)Tiles area
+### Tiles area
+[![wid3](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid3.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid3.png)
 
 By placing this widget in the home page you will see a window with buttons allowing quick access to the different modules in the system. The users will only be able to enter the models that have been assigned to them. Tiles area will look like this:
 
@@ -68,8 +68,8 @@ By placing this widget in the home page you will see a window with buttons allow
 
 ----------
 
-### [![wid4](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid4.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid4.png)My reports
-
+### My reports
+[![wid4](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid4.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/wid4.png)
 By placing this widget in the home page you will have a window displaying the last reports created by the user. It will look like this:
 
 [![report](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/report.png)  
@@ -77,7 +77,8 @@ By placing this widget in the home page you will have a window displaying the la
 
 ----------
 
-### [![session](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/session.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/session.png)My sessions
+### My sessions
+[![session](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/session.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/session.png)
 
 By placing this widget in the home page you will be able to view the different sessions within your user. It will look like this:
 
@@ -87,6 +88,6 @@ You can resume a session by clicking [![session3](http://www.cubeplat.com:8081/w
 
 Once you have customized the home page, click [![conf](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png) again and then click  [![conf3](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png). The changes will be applied and the home page will be ready to use.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Mzg4MjA1MSwzMjI4Njg3MDMsLTExND
+eyJoaXN0b3J5IjpbMTczNjg0Mzg1OSwzMjI4Njg3MDMsLTExND
 EyOTgwMzVdfQ==
 -->
