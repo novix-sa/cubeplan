@@ -22,8 +22,8 @@ In this section, you will learn how to create, mark dashboards and reports as fa
 
 -   [Reports Manager](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/)
 -   Create dashboards
-    -   [Create blocks](http://www.cubeplat.com:8081/wiki/en/knowledge-base/create-blocks/)
-    -   [Type of blocks](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/)
+    -   [Create blocks](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/create-blocks/)
+    -   [Type of blocks](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/block-types/)
     -   [Blocks toolbar](http://www.cubeplat.com:8081/wiki/en/knowledge-base/blocks-toolbar/)
     -   [Time frame](http://www.cubeplat.com:8081/wiki/en/knowledge-base/time-frame-2/)
     -   [Index Synchronization](http://www.cubeplat.com:8081/wiki/en/knowledge-base/index-and-drilldown-drillup-synchronixation/)
@@ -78,7 +78,7 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzODQzODY0LC0xNjg0MTMyMDg5LC0xNT
-Y1OTgyMTIwLC0xMzc1MzU1NDYsODAyMDEyMjI4LDIwOTE2OTE2
-NjAsLTUzNzg2NTRdfQ==
+eyJoaXN0b3J5IjpbLTY2NTE3MTk3MCw4MTM4NDM4NjQsLTE2OD
+QxMzIwODksLTE1NjU5ODIxMjAsLTEzNzUzNTU0Niw4MDIwMTIy
+MjgsMjA5MTY5MTY2MCwtNTM3ODY1NF19
 -->
