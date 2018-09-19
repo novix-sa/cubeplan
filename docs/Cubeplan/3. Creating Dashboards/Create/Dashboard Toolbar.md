@@ -2,6 +2,7 @@
 The dashboards display the following toolbar:
 ![](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/08/herr1.png)
 ‍‍
+---
 |Icon|Description|
 |--|--|
 |[![herr2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/herr2.png)|**Edit dashboard:** it enables the edit mode of the dashboard. It displays some buttons through which you can  [create different types of blocks](http://www.cubeplat.com:8081/wiki/en/knowledge-base/create-blocks/). It also displays the  [toolbar of the block](http://www.cubeplat.com:8081/wiki/en/knowledge-base/blocks-toolbar/)  through which you can create a customized dashboard.|
@@ -44,5 +45,5 @@ Type your comment in the text box. Once you finish, click  [![coment2](http://ww
 
 If your comment is about a specific block inside the dashboard, you can type your comment and click  [![coment3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/coment3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/coment3.png)  to place it in said block. Your comment will immediately appear in the Comments window. When you pass the cursor over it, it will show the block it addresses.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDYzNjU5NF19
+eyJoaXN0b3J5IjpbMTU3OTczMTg3NSwxNDU0NjM2NTk0XX0=
 -->
