@@ -9,13 +9,11 @@ In order to use Cubeplan the following minimum configuration is required:
 
 
 
-Then, you must  [log in](http://www.cubeplat.com:8081/wiki/en/knowledge-base/how-to-sign-up/)  to have access to all Cubeplan features.
 Depending whether Cubeplan is installed on your own company or provided as SAAS will be the internet address you use to access Cubeplan.
+Then, you must  [log in](http://www.cubeplat.com:8081/wiki/en/knowledge-base/how-to-sign-up/)  to access the app.
 
 For demo purposes you can access:
 [http://www.cubeplat.com/cubeplanmilano/](http://www.cubeplat.com/cubeplanmilano/)
-
-Then, you must [log in](/Cubeplan/Sign%20up/) to have access to all Cubeplan features.
 
 ## Cubeplan editing
 
@@ -37,5 +35,5 @@ In the Knowledge Base you will find a list of all Cubeplan features arranged by 
 
 Another way to access the content of a specific article is by searching in the categories list on the right margin in the Knowledge Base.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2MDEzODkyXX0=
+eyJoaXN0b3J5IjpbLTE0Mjk0MDk5MTJdfQ==
 -->
