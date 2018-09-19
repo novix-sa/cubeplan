@@ -1,17 +1,5 @@
 
 # File manager toolbar
-
--   [1  Upload and Download](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Upload_and_Download)
-    -   [1.1  Upload](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Upload)
-    -   [1.2  Download](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Download)
--   [2  Move to… Copy in… Duplicate](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Move_to8230_Copy_in8230_Duplicate)
-    -   [2.1  Move to…](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Move_to8230)
-    -   [2.2  Copy in…](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Copy_in8230)
-    -   [2.3  Duplicate](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Duplicate)
--   [3  Permissions](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Permissions)
-    -   [3.1  Deny access to folder:](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Deny_access_to_folder)
-    -   [3.2  Deny access to module:](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Deny_access_to_module)
-
 The file manager toolbar offers many buttons with different functions; these are:
 
 [![](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/07/toolbar.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/07/toolbar.png)
@@ -28,9 +16,8 @@ The file manager toolbar offers many buttons with different functions; these are
 |[![copy my](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/copy-my.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/copy-my.png)|**Copy to my workspace:** it allows you to copy files to your workspace from the public workspace or other user’s. To do so, you must select the file you want to copy and click this button. The files will immediately appear in your workspace.|
 |[![options](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/options.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/options.png)|It displays the following options:–  [Copy in..](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Copy_in8230)–  [Move to..](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Move_to8230)–  [Duplicate.](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Duplicate)|
 |[![permisos](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/permisos.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/permisos.png)|**Permissions:**  it allows you to restrict the viewing of files to a specific user group. The files will only be visible for those who have permission. For more information,  [click here](http://www.cubeplat.com:8081/wiki/en/knowledge-base/file-manager-toolbar/#Permissions).|
-|[![default](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/default.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/default.png)|
+|[![default](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/default.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/default.png)|**Make default company model:**  this button will be available when you click a file .ana. It allows you to select a model as default to open every time a user group log in.|
 
-**Make default company model:**  this button will be available when you click a file .ana. It allows you to select a model as default to open every time a user group log in.
 
 ## Upload and Download
 
@@ -95,6 +82,6 @@ The window is shown in the picture below. In this example, there is a created us
 
 Once you selected the group, click OK.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MjQwMzY4LDgyMDgyNDA0NywtMTk1Nz
-U2NDA0OF19
+eyJoaXN0b3J5IjpbLTUyNzA0NjAsODIwODI0MDQ3LC0xOTU3NT
+Y0MDQ4XX0=
 -->
