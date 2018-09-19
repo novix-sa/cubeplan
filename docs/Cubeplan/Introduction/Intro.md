@@ -9,12 +9,9 @@ In order to use Cubeplan the following minimum configuration is required:
 Depending whether Cubeplan is installed on your own company or provided as SAAS will be the internet address you use to access Cubeplan.
 Then, you must log in to access the app.
 
-For demo purposes you must request a demo access account and log incan access:
-[http://www.cubeplat.com/cubeplanmilano/](http://www.cubeplat.com/cubeplanmilano/)
-You 
+For demo purposes you must request a demo access account and [log in](http://www.cubeplat.com/cubeplanmilano/) here. 
 
 ## Cubeplan editing
-
 There are as many editing options in Cubeplan as possible processes:
 
 Each user role is able to carry out a great number of processes. These are presented as detailed as possible to meet the users’ needs.
@@ -33,5 +30,5 @@ In the Knowledge Base you will find a list of all Cubeplan features arranged by 
 
 Another way to access the content of a specific article is by searching in the categories list on the right margin in the Knowledge Base.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MzkxNDgyXX0=
+eyJoaXN0b3J5IjpbMTM4NDAwOTI3OV19
 -->
