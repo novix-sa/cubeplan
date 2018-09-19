@@ -20,7 +20,7 @@ In this section, you will learn how to manage different files on which the model
 # Creating dashboards  
 In this section, you will learn how to create, mark dashboards and reports as favorite in the Reports Manager. Then you will learn how to creat a dashboards with different types of blocks and graphs.
 
--   [Reports Manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/reports-manager-2/)
+-   [Reports Manager](Cubeplan/3.%20Creating%20Dash/File%20Manager%20Toolbar/)
 -   Create dashboards
     -   [Create blocks](http://www.cubeplat.com:8081/wiki/en/knowledge-base/create-blocks/)
     -   [Type of blocks](http://www.cubeplat.com:8081/wiki/en/knowledge-base/block-types/)
@@ -78,7 +78,7 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQxMzIwODksLTE1NjU5ODIxMjAsLT
-EzNzUzNTU0Niw4MDIwMTIyMjgsMjA5MTY5MTY2MCwtNTM3ODY1
-NF19
+eyJoaXN0b3J5IjpbLTEyODg2Mjc3MzMsLTE2ODQxMzIwODksLT
+E1NjU5ODIxMjAsLTEzNzUzNTU0Niw4MDIwMTIyMjgsMjA5MTY5
+MTY2MCwtNTM3ODY1NF19
 -->
