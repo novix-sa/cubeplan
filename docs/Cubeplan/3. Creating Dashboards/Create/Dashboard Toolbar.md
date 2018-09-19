@@ -1,4 +1,3 @@
-
 # Dashboard Toolbar
 Contents  [[hide](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dashboard-toolbar-2/#)]
 
@@ -51,5 +50,5 @@ Type your comment in the text box. Once you finish, click  [![coment2](http://ww
 
 If your comment is about a specific block inside the dashboard, you can type your comment and click  [![coment3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/coment3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/coment3.png)  to place it in said block. Your comment will immediately appear in the Comments window. When you pass the cursor over it, it will show the block it addresses.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTI1ODc0Nl19
+eyJoaXN0b3J5IjpbMTkwMDEzMDQyMF19
 -->
