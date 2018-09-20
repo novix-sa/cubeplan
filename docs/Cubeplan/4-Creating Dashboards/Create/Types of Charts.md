@@ -1,7 +1,4 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).# Types of Charts
+# Types of Charts
 [![](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2018/01/Screenshot_2-2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2018/01/Screenshot_2-2.png)
 
 To create a dashboard, we have lot of types of charts.
@@ -30,5 +27,5 @@ Each of them has different  [properties](http://www.cubeplat.com:8081/wiki/en/kn
 -   [Pyramid](http://www.cubeplat.com:8081/wiki/en/knowledge-base/pyramid-2/)
 -   [Combined Graph](http://www.cubeplat.com:8081/wiki/en/knowledge-base/combined-graph-2/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg3MTA0MDgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjQwMzk3NDcyLDczMDk5ODExNl19
 -->
