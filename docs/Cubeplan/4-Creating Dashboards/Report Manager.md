@@ -48,7 +48,7 @@ Copy and paste this code on a web page to see the dashboard/report that was shar
 
 ## Export or import dashboards or reports
 
-### Export dashboards
+### Export dashboards/reports
 With a right click on the window some tools will be displayed. You should click Export.
 [![Screenshot_4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2018/01/Screenshot_4-1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2018/01/Screenshot_4-1.png)
 
@@ -70,5 +70,5 @@ Once you have selected the file, a window will open from which you can select th
 If the option [![impor3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor3.png)  is enabled, the dashboards inside a report will be imported inside the report as well. If the option is disabled, the dashboards will be imported individually.  
 Once you have selected the dashboards, click  [![impor4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor4.png). They will be displayed in the Reports Manager.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ3MDU3NjBdfQ==
+eyJoaXN0b3J5IjpbMTY1ODc3MTQwOF19
 -->
