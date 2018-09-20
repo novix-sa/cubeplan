@@ -26,11 +26,11 @@ In this section, you will learn how to create, mark dashboards and reports as fa
     -   [Type of blocks](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/block-types/)
     -   [Blocks toolbar](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/blocks-toolbar/)
     -   [Time frame](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/time-frame-2/)
-    -   [Index Synchronization](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/index-and-drilldown-drillup-synchronixation/)
-    -   [Scenario Manager](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/scenario-manager-2/)
-    -   [Dashboards toolbar](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/dashboard-toolbar-2/)
+    -   [Index Synchronization](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/index-and-drilldown-drillup-synchronixation/)
+    -   [Scenario Manager](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/scenario-manager-2/)
+    -   [Dashboards toolbar](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/dashboard-toolbar-2/)
 -   [Type of charts](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/types-of-charts/)
-    -   [Charts toolbar](Cubeplan/3.%20Creating%20Dashboards/Report%20Manager/charts-toolbar/)
+    -   [Charts toolbar](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/charts-toolbar/)
 
 # Editing Models  
 In this section, you will learn how to edit the model preferences. You will learn to evaluate nodes, navigate into the diagram, import and export modules. Then you will create nodes with functiones and number format. These nodes can have a style, color, size and alignment. At the end, the Function List.  
@@ -78,7 +78,7 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE4MjMzOTcsMTc3NTA5NDUyNCw4MT
+eyJoaXN0b3J5IjpbLTEyNDIwMDg5NjcsMTc3NTA5NDUyNCw4MT
 M4NDM4NjQsLTE2ODQxMzIwODksLTE1NjU5ODIxMjAsLTEzNzUz
 NTU0Niw4MDIwMTIyMjgsMjA5MTY5MTY2MCwtNTM3ODY1NF19
 -->
