@@ -1,4 +1,4 @@
-# Function List
+# ADE Function List
 
 **Basic Math**
 [Abs](http://www.cubeplat.com:8081/wiki/en/knowledge-base/basic-math/#Abs),  [Sign](http://www.cubeplat.com:8081/wiki/en/knowledge-base/basic-math/#Sign),  [Mod](http://www.cubeplat.com:8081/wiki/en/knowledge-base/basic-math/#Mod),  [Sqr](http://www.cubeplat.com:8081/wiki/en/knowledge-base/basic-math/#Sqr),  [Sqrt](http://www.cubeplat.com:8081/wiki/en/knowledge-base/basic-math/#Sqrt),  
@@ -232,5 +232,6 @@ I[sNotSpecified](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-q
 [Optional](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Optional_parameters),  [OrNull](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#OrNull),  [Positive](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Positive),  [Prob](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Prob),  [Reference](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Reference),  
 [Sample](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Sample), [Text](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Text),  [Variable](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Variable)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjczODczOTksLTQyNDQ1NTE5N119
+eyJoaXN0b3J5IjpbLTIwOTUyNjE3MzMsLTEzNjczODczOTksLT
+QyNDQ1NTE5N119
 -->
