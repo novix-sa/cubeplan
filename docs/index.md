@@ -28,7 +28,7 @@ In this section, you will learn how to create, mark dashboards and reports as fa
     -   [Time frame](Cubeplan/4-Creating%20Dashboards/Create/Timeframe/)
     -   [Index Synchronization](Cubeplan/4-Creating%20Dashboards/Create/Index%20Sync/)
     -   [Scenario Manager](Cubeplan/4-Creating%20Dashboards/Report%20Manager/scenario-manager-2/)
-    -   [Dashboards toolbar](Cubeplan/4-Creating%20Dashboards/Report%20Manager/dashboard-toolbar-2/)
+    -   [Dashboards toolbar](Cubeplan/4-Creating%20Dashboards/Create/Dashboard%20Toolbar/)
 -   [Type of charts](Cubeplan/4-Creating%20Dashboards/Create/Types%20of%20Charts/)
     -   [Charts toolbar](Cubeplan/4-Creating%20Dashboards/Create/Charts%20Toolbar/)
 
@@ -78,8 +78,8 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTE3NDY5MiwxNjYyNjAyMTkwLDg4Mz
-c4MzM0NCwxNzc1MDk0NTI0LDgxMzg0Mzg2NCwtMTY4NDEzMjA4
-OSwtMTU2NTk4MjEyMCwtMTM3NTM1NTQ2LDgwMjAxMjIyOCwyMD
-kxNjkxNjYwLC01Mzc4NjU0XX0=
+eyJoaXN0b3J5IjpbMjEyOTc1NjEyMSwtMzUxMTc0NjkyLDE2Nj
+I2MDIxOTAsODgzNzgzMzQ0LDE3NzUwOTQ1MjQsODEzODQzODY0
+LC0xNjg0MTMyMDg5LC0xNTY1OTgyMTIwLC0xMzc1MzU1NDYsOD
+AyMDEyMjI4LDIwOTE2OTE2NjAsLTUzNzg2NTRdfQ==
 -->
