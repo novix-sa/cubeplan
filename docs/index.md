@@ -20,12 +20,12 @@ In this section, you will learn how to manage different files on which the model
 # Creating dashboards  
 In this section, you will learn how to create, mark dashboards and reports as favorite in the Reports Manager. Then you will learn how to creat a dashboards with different types of blocks and graphs.
 
--   [Reports Manager](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/)
+-   [Reports Manager](Cubeplan/4-Creating%20Dashboards/Report%20Manager/)
 -   Create dashboards
-    -   [Create blocks](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/create-blocks/)
-    -   [Type of blocks](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/block-types/)
-    -   [Blocks toolbar](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/blocks-toolbar/)
-    -   [Time frame](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/time-frame-2/)
+    -   [Create blocks](Cubeplan/4-Creating%20Dashboards/Report%20Manager/create-blocks/)
+    -   [Type of blocks](Cubeplan/4-Creating%20Dashboards/Report%20Manager/block-types/)
+    -   [Blocks toolbar](Cubeplan/4-Creating%20Dashboards/Report%20Manager/blocks-toolbar/)
+    -   [Time frame](Cubeplan/4-Creating%20Dashboards/Report%20Manager/time-frame-2/)
     -   [Index Synchronization](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/index-and-drilldown-drillup-synchronixation/)
     -   [Scenario Manager](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/scenario-manager-2/)
     -   [Dashboards toolbar](Cubeplan/4.%20Creating%20Dashboards/Report%20Manager/dashboard-toolbar-2/)
@@ -78,7 +78,7 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIwMDg5NjcsMTc3NTA5NDUyNCw4MT
+eyJoaXN0b3J5IjpbLTEyMTE1MzY1ODUsMTc3NTA5NDUyNCw4MT
 M4NDM4NjQsLTE2ODQxMzIwODksLTE1NjU5ODIxMjAsLTEzNzUz
 NTU0Niw4MDIwMTIyMjgsMjA5MTY5MTY2MCwtNTM3ODY1NF19
 -->
