@@ -50,36 +50,19 @@ First, click  [![bot5](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016
 ## Align nodes
 
 The same way as to set the size, first you must select the nodes. The node with the colored corner will be the one taken as reference. When there is more than one selected node, the button  [![bot6](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6.png)  is visible. Click it, and the following options will be displayed:
-
-[![bot6fun1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun1.png)
-
-It aligns left edges
-
-[![bot6fun2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun2.png)
-
-It centers left and right edges
-
-[![bot6fun3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun3.png)
-
-It aligns right edges
-
-[![bot6fun4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun4.png)
-
-It aligns left and right edges
-
-[![bot6fun5](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun5.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun5.png)
-
-It aligns top edges
-
-[![bot6fun6](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun6.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun6.png)
-
-It centers top and bottom edges
-
-[![bot6fun7](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)
+|Icon|Description|
+|--|--|
+|[![bot6fun1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun1.png)|It aligns left edges|
+|[![bot6fun2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun2.png)|It centers left and right edges|
+|[![bot6fun3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun3.png)|It aligns right edges|
+|[![bot6fun4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun4.png)|It aligns left and right edges|
+|[![bot6fun5](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun5.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun5.png)|It aligns top edges|
+|[![bot6fun6](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun6.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun6.png)|It centers top and bottom edges|
+|[![bot6fun7](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)
 
 It aligns bottom edges
 
 ### Related Articles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU3NjI3OTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDU5NjM5MSwtMTUxNTc2Mjc5Nl19
 -->
