@@ -50,6 +50,7 @@ First, click  [![bot5](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016
 ## Align nodes
 
 The same way as to set the size, first you must select the nodes. The node with the colored corner will be the one taken as reference. When there is more than one selected node, the button  [![bot6](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6.png)  is visible. Click it, and the following options will be displayed:
+
 |Icon|Description|
 |--|--|
 |[![bot6fun1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun1.png)|It aligns left edges|
@@ -60,5 +61,6 @@ The same way as to set the size, first you must select the nodes. The node with 
 |[![bot6fun6](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun6.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun6.png)|It centers top and bottom edges|
 |[![bot6fun7](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)|It aligns bottom edges|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzY0NTIzNiwtMTUxNTc2Mjc5Nl19
+eyJoaXN0b3J5IjpbLTUyNDQ5NDU2MiwtNjEzNjQ1MjM2LC0xNT
+E1NzYyNzk2XX0=
 -->
