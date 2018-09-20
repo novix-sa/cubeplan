@@ -110,15 +110,16 @@
 [Sample](http://www.cubeplat.com:8081/wiki/en/knowledge-base/statistical-functions/#Sample),  [Sdeviation](http://www.cubeplat.com:8081/wiki/en/knowledge-base/statistical-functions/#Sdeviation),  [Skewness](http://www.cubeplat.com:8081/wiki/en/knowledge-base/statistical-functions/#Skewness),  
 [Statistics](http://www.cubeplat.com:8081/wiki/en/knowledge-base/statistical-functions/#Statistics),  [Variance](http://www.cubeplat.com:8081/wiki/en/knowledge-base/statistical-functions/#Variance)
 
-**Regression Functions**[LogisticRegression](http://www.cubeplat.com:8081/wiki/en/knowledge-base/regression-functions/#LogisticRegression),  
+**Regression Functions**
+[LogisticRegression](http://www.cubeplat.com:8081/wiki/en/knowledge-base/regression-functions/#LogisticRegression),  
 [ProbitRegression](http://www.cubeplat.com:8081/wiki/en/knowledge-base/regression-functions/#ProbitRegression),  
 [PoissonRegression](http://www.cubeplat.com:8081/wiki/en/knowledge-base/regression-functions/#PoissonRegression),  
 [Regression](http://www.cubeplat.com:8081/wiki/en/knowledge-base/regression-functions/#Regression),  [RegressionDist](http://www.cubeplat.com:8081/wiki/en/knowledge-base/regression-functions/#RegressionDist),  
 [RegressionFitProb](http://www.cubeplat.com:8081/wiki/en/knowledge-base/regression-functions/#RegressionFitProb),  
 [RegressionNoise](http://www.cubeplat.com:8081/wiki/en/knowledge-base/regression-functions/#RegressionNoise)
 
-**Text Functions  
-**[Joining Text: a & b](http://www.cubeplat.com:8081/wiki/en/knowledge-base/text-functions/#JoinText), [Asc(t)](http://www.cubeplat.com:8081/wiki/en/knowledge-base/asct/),  
+**Text Functions**
+[Joining Text: a & b](http://www.cubeplat.com:8081/wiki/en/knowledge-base/text-functions/#JoinText), [Asc(t)](http://www.cubeplat.com:8081/wiki/en/knowledge-base/asct/),  
 [Chr(n)](http://www.cubeplat.com:8081/wiki/en/knowledge-base/text-functions/#Chr), [FindInText](http://www.cubeplat.com:8081/wiki/en/knowledge-base/text-functions/#FindinText),  
 [JoinText](http://www.cubeplat.com:8081/wiki/en/knowledge-base/text-functions/#JoinText), [NumberToText](http://www.cubeplat.com:8081/wiki/en/knowledge-base/text-functions/#NumberToText),  
 [ParseNumber](http://www.cubeplat.com:8081/wiki/en/knowledge-base/text-functions/#ParseNumber), [SelectText](http://www.cubeplat.com:8081/wiki/en/knowledge-base/text-functions/#SelectText),  
@@ -129,56 +130,56 @@
 [TextSentenceCase](http://www.cubeplat.com:8081/wiki/en/knowledge-base/text-functions/#TextSentenceCase),  
 [TextReplace](http://www.cubeplat.com:8081/wiki/en/knowledge-base/text-functions/#TextReplace)
 
-**Sensitivity Analysis  
-**[Correlation](http://www.cubeplat.com:8081/wiki/en/knowledge-base/sensitivity-analysis/#Correlation),  [Dydx](http://www.cubeplat.com:8081/wiki/en/knowledge-base/sensitivity-analysis/#Dydx),  [Elasticity](http://www.cubeplat.com:8081/wiki/en/knowledge-base/sensitivity-analysis/#Elasticity),  
+**Sensitivity Analysis**
+[Correlation](http://www.cubeplat.com:8081/wiki/en/knowledge-base/sensitivity-analysis/#Correlation),  [Dydx](http://www.cubeplat.com:8081/wiki/en/knowledge-base/sensitivity-analysis/#Dydx),  [Elasticity](http://www.cubeplat.com:8081/wiki/en/knowledge-base/sensitivity-analysis/#Elasticity),  
 [Rankcorrel](http://www.cubeplat.com:8081/wiki/en/knowledge-base/sensitivity-analysis/#Rankcorrel),  [Regression](http://www.cubeplat.com:8081/wiki/en/knowledge-base/sensitivity-analysis/#Regression),  
 [Whatif](http://www.cubeplat.com:8081/wiki/en/knowledge-base/sensitivity-analysis/#WhatIf),  [WhatIfAll](http://www.cubeplat.com:8081/wiki/en/knowledge-base/sensitivity-analysis/#WhatIfAll)
 
-**Special Functions  
-**[ComputedBy](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#ComputedBy),  [Dynamic](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#Dynamic),  [Error](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#Error),  
+**Special Functions**
+[ComputedBy](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#ComputedBy),  [Dynamic](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#Dynamic),  [Error](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#Error),  
 [Evaluate](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#Evaluate), [IgnoreWarnings](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#IgnoreWarnings),  [Iterate](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#Iterate),  
 [Subindex](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#Subindex),  [Time](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#Time),  [Today](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#Today),  [Whatif](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#Whatif),  
 [WhatIfAll](http://www.cubeplat.com:8081/wiki/en/knowledge-base/special-functions/#WhatIfAll)
 
-**Miscellaneous Functions  
-**[CompressMemoryUsedBy](http://www.cubeplat.com:8081/wiki/en/knowledge-base/miscellaneous-functions/#CompressMemoryUsedBy)  
+**Miscellaneous Functions**
+[CompressMemoryUsedBy](http://www.cubeplat.com:8081/wiki/en/knowledge-base/miscellaneous-functions/#CompressMemoryUsedBy)  
 [Handle](http://www.cubeplat.com:8081/wiki/en/knowledge-base/miscellaneous-functions/#Handle),  [HandleFromIdentifier](http://www.cubeplat.com:8081/wiki/en/knowledge-base/miscellaneous-functions/#HandleFromIdentifier),  
 [ListOfHandles](http://www.cubeplat.com:8081/wiki/en/knowledge-base/miscellaneous-functions/#ListOfHandles)
 
-**Financial Functions  
-**[Cumipmt](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#CumIPmt), [Cumprinc](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#CumPrinc),  
+**Financial Functions**
+[Cumipmt](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#CumIPmt), [Cumprinc](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#CumPrinc),  
 [Fv](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#Fv), [Ipmt](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#Ipmt), [Irr](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#Irr), [MIrr](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#MIrr), [Nper](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#Nper),  
 [Npv](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#Npv), [Pmt](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#Pmt), [Ppmt](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#Ppmt), [Pv](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#Pv),  
 [Rate](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#Rate), [XIrr](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#XIrr), [XMIrr](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#XMIrr), [Xnpv](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#Xnpv),  
 [YearFrac](http://www.cubeplat.com:8081/wiki/en/knowledge-base/financial-functions/#YearFrac)
 
-**Dates  
-**[DateAdd](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dates/#DateAdd),  [DatePart](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dates/#DatePart),  [MakeDate](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dates/#MakeDate),  
+**Dates**
+[DateAdd](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dates/#DateAdd),  [DatePart](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dates/#DatePart),  [MakeDate](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dates/#MakeDate),  
 [MakeTime](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dates/#MakeTime),  [ParseDate](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dates/#ParseDate),  [Today](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dates/#Today)
 
-**Dialog Functions  
-**[MsgBox](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dialog-functions/#MsgBox),  [AskMsgChoice](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dialog-functions/#AskMsgChoice),  
+**Dialog Functions**
+[MsgBox](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dialog-functions/#MsgBox),  [AskMsgChoice](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dialog-functions/#AskMsgChoice),  
 [AskMsgNumber](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dialog-functions/#AskMsgNumber),  [AskMsgText](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dialog-functions/#AskMsgText),  
 [Error](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dialog-functions/#Error),  [OpenURL](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dialog-functions/#OpenURL) ,  [ShowPdfFile](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dialog-functions/#ShowPdfFile),  
 [ShowProgressBar](http://www.cubeplat.com:8081/wiki/en/knowledge-base/dialog-functions/#ShowProgressBar)
 
-**Operators  
-**[@: Index Position Operator](http://www.cubeplat.com:8081/wiki/en/knowledge-base/operators/#Index_Position_Operator),  
+**Operators**
+[@: Index Position Operator](http://www.cubeplat.com:8081/wiki/en/knowledge-base/operators/#Index_Position_Operator),  
 [Arithmetic operators](http://www.cubeplat.com:8081/wiki/en/knowledge-base/operators/#Arithmetic_operators),  
 [Comparison operators](http://www.cubeplat.com:8081/wiki/en/knowledge-base/operators/#Comparison_operators),  
 [Alphabetic ordering of text values](http://www.cubeplat.com:8081/wiki/en/knowledge-base/operators/#Alphabetic_ordering_of_text_values),  
 [Logical operators](http://www.cubeplat.com:8081/wiki/en/knowledge-base/operators/#Logical_operators)
 
-**Database Access  
-**[DBLabels](http://www.cubeplat.com:8081/wiki/en/knowledge-base/database-access/#DbLabels), [DBQuery](http://www.cubeplat.com:8081/wiki/en/knowledge-base/database-access/#DbQuery),  
+**Database Access**
+[DBLabels](http://www.cubeplat.com:8081/wiki/en/knowledge-base/database-access/#DbLabels), [DBQuery](http://www.cubeplat.com:8081/wiki/en/knowledge-base/database-access/#DbQuery),  
 [DBTable](http://www.cubeplat.com:8081/wiki/en/knowledge-base/database-access/#DbTable), [DBTableNames](http://www.cubeplat.com:8081/wiki/en/knowledge-base/database-access/#DbTableNames),  
 [DBWrite](http://www.cubeplat.com:8081/wiki/en/knowledge-base/database-access/#DbWrite), [MdxQuery](http://www.cubeplat.com:8081/wiki/en/knowledge-base/database-access/#MdxQuery),  
 [SqlDriverInfo](http://www.cubeplat.com:8081/wiki/en/knowledge-base/database-access/#SqlDriverInfo),  
 [ReadTextFile](http://www.cubeplat.com:8081/wiki/en/knowledge-base/database-access/#ReadTextFile),  
 [WriteTextFile](http://www.cubeplat.com:8081/wiki/en/knowledge-base/database-access/#WriteTextFile)
 
-**Excel Access Functions  
-**[SpreadsheetOpen](http://www.cubeplat.com:8081/wiki/en/knowledge-base/functions-to-read-and-write-data-from-excel-worksheets/#SpreadsheetOpen),  
+**Excel Access Functions**
+[SpreadsheetOpen](http://www.cubeplat.com:8081/wiki/en/knowledge-base/functions-to-read-and-write-data-from-excel-worksheets/#SpreadsheetOpen),  
 [SpreadsheetSave](http://www.cubeplat.com:8081/wiki/en/knowledge-base/functions-to-read-and-write-data-from-excel-worksheets/#SpreadsheetSave),  
 [SpreadsheetCell](http://www.cubeplat.com:8081/wiki/en/knowledge-base/functions-to-read-and-write-data-from-excel-worksheets/#SpreadsheetCell),  
 [SpreadsheetRange](http://www.cubeplat.com:8081/wiki/en/knowledge-base/functions-to-read-and-write-data-from-excel-worksheets/#SpreadsheetRange),  
@@ -187,15 +188,15 @@
 [SpreadsheetSetRange](http://www.cubeplat.com:8081/wiki/en/knowledge-base/functions-to-read-and-write-data-from-excel-worksheets/#SpreadsheetSetRange),  
 [SpreadsheetSetInfo](http://www.cubeplat.com:8081/wiki/en/knowledge-base/functions-to-read-and-write-data-from-excel-worksheets/#SpreadsheetSetInfo)
 
-**Application Integration  
-**[CurrentDataFolder](http://www.cubeplat.com:8081/wiki/en/knowledge-base/application-integration/#CurrentDataFolder),  
+**Application Integration**
+[CurrentDataFolder](http://www.cubeplat.com:8081/wiki/en/knowledge-base/application-integration/#CurrentDataFolder),  
 [CurrentModelFolder](http://www.cubeplat.com:8081/wiki/en/knowledge-base/application-integration/#CurrentModelFolder),  
 [GetProcessInfo](http://www.cubeplat.com:8081/wiki/en/knowledge-base/application-integration/#GetProcessInfo),  
 [GetRegistryValue](http://www.cubeplat.com:8081/wiki/en/knowledge-base/application-integration/#GetRegistryValue),  
 [ReadFromUrl](http://www.cubeplat.com:8081/wiki/en/knowledge-base/application-integration/#ReadFromUrl)
 
-**COM Object Functions  
-**[COMArray](http://www.cubeplat.com:8081/wiki/en/knowledge-base/com-object-functions/#COMArray),  [COMCallMethod](http://www.cubeplat.com:8081/wiki/en/knowledge-base/com-object-functions/#COMCallMethod),  
+**COM Object Functions**
+[COMArray](http://www.cubeplat.com:8081/wiki/en/knowledge-base/com-object-functions/#COMArray),  [COMCallMethod](http://www.cubeplat.com:8081/wiki/en/knowledge-base/com-object-functions/#COMCallMethod),  
 [COMCreateObject](http://www.cubeplat.com:8081/wiki/en/knowledge-base/com-object-functions/#COMCreateObject),  
 [COMGetProperty](http://www.cubeplat.com:8081/wiki/en/knowledge-base/com-object-functions/#COMGetProperty),  
 [COMPutProperty](http://www.cubeplat.com:8081/wiki/en/knowledge-base/com-object-functions/#COMPutProperty)
@@ -206,8 +207,8 @@
 [IsReference](http://www.cubeplat.com:8081/wiki/en/knowledge-base/data-type-functions/#IsReference), [IsText](http://www.cubeplat.com:8081/wiki/en/knowledge-base/data-type-functions/#IsText),  
 [IsUndef](http://www.cubeplat.com:8081/wiki/en/knowledge-base/data-type-functions/#IsUndef), [TypeOf](http://www.cubeplat.com:8081/wiki/en/knowledge-base/data-type-functions/#TypeOf)
 
-**Control Constructs  
-**[Begin… End](http://www.cubeplat.com:8081/wiki/en/knowledge-base/control-constructs/#Begin8230End),  
+**Control Constructs**
+[Begin… End](http://www.cubeplat.com:8081/wiki/en/knowledge-base/control-constructs/#Begin8230End),  
 [For… Do…](http://www.cubeplat.com:8081/wiki/en/knowledge-base/control-constructs/#ForDo), [Index](http://www.cubeplat.com:8081/wiki/en/knowledge-base/local-indexes/),  
 [If… Then… Else…](http://www.cubeplat.com:8081/wiki/en/knowledge-base/control-constructs/#If_8230Then8230_Else),  
 [IgnoreWarnings](http://www.cubeplat.com:8081/wiki/en/knowledge-base/control-constructs/#IgnoreWarnings),  
@@ -216,20 +217,20 @@
 [MetaVar](http://www.cubeplat.com:8081/wiki/en/knowledge-base/control-constructs/#MetaVarDo), [Try](http://www.cubeplat.com:8081/wiki/en/knowledge-base/control-constructs/#Try), [Var](http://www.cubeplat.com:8081/wiki/en/knowledge-base/control-constructs/#Var),  
 [While… Do…](http://www.cubeplat.com:8081/wiki/en/knowledge-base/control-constructs/#While8230Do)
 
-**System Constants  
-**[False](http://www.cubeplat.com:8081/wiki/en/knowledge-base/system-constants/#False),  [Null](http://www.cubeplat.com:8081/wiki/en/knowledge-base/system-constants/#Null),  [Pi](http://www.cubeplat.com:8081/wiki/en/knowledge-base/system-constants/#Pi),  [True](http://www.cubeplat.com:8081/wiki/en/knowledge-base/system-constants/#True),  [INF](http://www.cubeplat.com:8081/wiki/en/knowledge-base/system-constants/#INF)
+**System Constants**
+[False](http://www.cubeplat.com:8081/wiki/en/knowledge-base/system-constants/#False),  [Null](http://www.cubeplat.com:8081/wiki/en/knowledge-base/system-constants/#Null),  [Pi](http://www.cubeplat.com:8081/wiki/en/knowledge-base/system-constants/#Pi),  [True](http://www.cubeplat.com:8081/wiki/en/knowledge-base/system-constants/#True),  [INF](http://www.cubeplat.com:8081/wiki/en/knowledge-base/system-constants/#INF)
 
-**Object Classes  
-**[Chance](http://www.cubeplat.com:8081/wiki/en/knowledge-base/object-classes/#Chance),  [Constant](http://www.cubeplat.com:8081/wiki/en/knowledge-base/object-classes/#Constant),  [Decision](http://www.cubeplat.com:8081/wiki/en/knowledge-base/object-classes/#Decision),  
+**Object Classes**
+[Chance](http://www.cubeplat.com:8081/wiki/en/knowledge-base/object-classes/#Chance),  [Constant](http://www.cubeplat.com:8081/wiki/en/knowledge-base/object-classes/#Constant),  [Decision](http://www.cubeplat.com:8081/wiki/en/knowledge-base/object-classes/#Decision),  
 [Index](http://www.cubeplat.com:8081/wiki/en/knowledge-base/object-classes/#Index),  [Function](http://www.cubeplat.com:8081/wiki/en/knowledge-base/object-classes/#Function),  [Button](http://www.cubeplat.com:8081/wiki/en/knowledge-base/object-classes/#Button),  [Module](http://www.cubeplat.com:8081/wiki/en/knowledge-base/object-classes/#Module),  
 [Objective](http://www.cubeplat.com:8081/wiki/en/knowledge-base/object-classes/#Objective),  [Variable](http://www.cubeplat.com:8081/wiki/en/knowledge-base/object-classes/#Variable)
 
-**Parameter Qualifiers  
-**[All](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#All),  [Atom](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Atom), [Ascending](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Ascending_and_Descending),  [Coerce](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Coerce),  
+**Parameter Qualifiers**
+[All](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#All),  [Atom](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Atom), [Ascending](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Ascending_and_Descending),  [Coerce](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Coerce),  
 [Context](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Context),  [ContextSample](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#ContextSample),  [Descending](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Ascending_and_Descending),  
 I[sNotSpecified](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#IsNotSpecified), [Nonnegative](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Nonnegative),  [Number](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Number),  
 [Optional](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Optional_parameters),  [OrNull](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#OrNull),  [Positive](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Positive),  [Prob](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Prob),  [Reference](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Reference),  
 [Sample](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Sample), [Text](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Text),  [Variable](http://www.cubeplat.com:8081/wiki/en/knowledge-base/parameter-qualifiers/#Variable)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE2MjA2OTcsLTQyNDQ1NTE5N119
+eyJoaXN0b3J5IjpbLTEzNjczODczOTksLTQyNDQ1NTE5N119
 -->
