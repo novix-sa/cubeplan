@@ -58,11 +58,7 @@ The same way as to set the size, first you must select the nodes. The node with 
 |[![bot6fun4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun4.png)|It aligns left and right edges|
 |[![bot6fun5](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun5.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun5.png)|It aligns top edges|
 |[![bot6fun6](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun6.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun6.png)|It centers top and bottom edges|
-|[![bot6fun7](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)
-
-It aligns bottom edges
-
-### Related Articles
+|[![bot6fun7](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)|It aligns bottom edges|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU5NjM5MSwtMTUxNTc2Mjc5Nl19
+eyJoaXN0b3J5IjpbLTYxMzY0NTIzNiwtMTUxNTc2Mjc5Nl19
 -->
