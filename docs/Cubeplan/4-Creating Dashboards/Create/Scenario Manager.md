@@ -1,5 +1,4 @@
 # Scenario Manager
-
 ### Creat new scenario
 Scenarios are used to compare different moments in time. First, you must  [create a dashboard](http://www.cubeplat.com:8081/wiki/index.php/en/knowledge-base/create-new-dashboard/); then, you create a scenario containing at least one node from the dashboard.
 
@@ -19,5 +18,5 @@ Open the tab  [![esc6](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016
 
 It containes all previous scenarios. You select the ones you want to load and then click  [![sce7](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/sce7.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/sce7.png).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNTAwMTQ4LDIwNjI3NzIwNjRdfQ==
+eyJoaXN0b3J5IjpbLTE1NzUwMjk5MTgsMjA2Mjc3MjA2NF19
 -->
