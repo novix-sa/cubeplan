@@ -1,7 +1,6 @@
 # Create a Model
 
-
-> Written with [StackEdit](https://stackedit.io/).
+First click in the Influence Diagram Icon. A blank page will open
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM1OTU5OTldfQ==
+eyJoaXN0b3J5IjpbOTIzMDAxMjQwLC0xMzYzNTk1OTk5XX0=
 -->
