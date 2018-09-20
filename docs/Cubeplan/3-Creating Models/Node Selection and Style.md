@@ -13,7 +13,7 @@ After selecting the nodes you want to move to a module, press  [![dia20](http://
 
 Firts, select the nodes and then click Delete.
 
-## Sent to back / bring to front
+## Send to back / Bring to front
 
 To send a node to the back, you must first select a node, click  [![bot2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot2.png) and then select the option  [![bot2fun1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot2fun1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot2fun1.png). If you want to bring the node to the front, select  [![bot2fun2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot2fun2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot2fun2.png).
 
@@ -62,6 +62,6 @@ The same way as to set the size, first you must select the nodes. The node with 
 |[![bot6fun6](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun6.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun6.png)|It centers top and bottom edges|
 |[![bot6fun7](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)|It aligns bottom edges|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MzEwNDc2LC02MTM2NDUyMzYsLTE1MT
-U3NjI3OTZdfQ==
+eyJoaXN0b3J5IjpbLTk3NTMzNzE1Niw2MDkzMTA0NzYsLTYxMz
+Y0NTIzNiwtMTUxNTc2Mjc5Nl19
 -->
