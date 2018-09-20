@@ -8,30 +8,11 @@ If you want to create a node you have to enable the diagram edit mode first; the
 |[![dia4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia4.png)|Module|Ctrl+5|
 |[![dia5](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia5.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia5.png)|Text|Ctrl+9|
 |[![dia6](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia6.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia6.png)|Button|Ctrl+0|
-|[![dia7](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia7.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia7.png)|
-Decision
-
-Ctrl+1
-
-[![dia8](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia8.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia8.png)|Option|Ctrl+3|
-|
-[![dia9](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia9.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia9.png)
-
-Objective
-
-Ctrl+4
-
-[![dia10](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia10.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia10.png)
-
-Constant
-
-Ctrl+7
-
-[![dia11](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia11.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia11.png)
-
-Function
-
-Ctrl+8
+|[![dia7](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia7.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia7.png)|Decision|Ctrl+1|
+|[![dia8](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia8.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia8.png)|Option|Ctrl+3|
+|[![dia9](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia9.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia9.png)|Objective|Ctrl+4|
+|[![dia10](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia10.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia10.png)|Constant|Ctrl+7|
+|[![dia11](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia11.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia11.png)|Function|Ctrl+8|
 
 You can create a node in two ways:  
 1. Click a node and drag it to the influence diagram window.  
@@ -53,5 +34,5 @@ To create an  **input node**, after selecting the node click  [![bot1](http://ww
 
 To create an  **output node**, after selecting the node click  [![bot1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot1.png) and select the option  [![bot1fun3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot1fun3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot1fun3.png).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODA5MjM3NF19
+eyJoaXN0b3J5IjpbLTk0NjExODE0NF19
 -->
