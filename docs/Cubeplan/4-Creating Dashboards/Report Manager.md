@@ -1,6 +1,4 @@
 # Reports Manager
-
-## Reports Manager
 <iframe width="721" height="480" src="https://www.youtube.com/embed/-Gxm8UDAkBk?list=PLhZdWvtJsasTSZeamYJ6TIs_ApZPD4ex-" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Share dashboard or report
@@ -72,5 +70,5 @@ Once you have selected the file, a window will open from which you can select th
 If the option [![impor3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor3.png)  is enabled, the dashboards inside a report will be imported inside the report as well. If the option is disabled, the dashboards will be imported individually.  
 Once you have selected the dashboards, click  [![impor4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/03/impor4.png). They will be displayed in the Reports Manager.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4ODc1NV19
+eyJoaXN0b3J5IjpbLTEwMjc5Mjc4MzddfQ==
 -->
