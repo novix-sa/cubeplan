@@ -29,7 +29,7 @@ In this section, you will learn how to create, mark dashboards and reports as fa
     -   [Index Synchronization](Cubeplan/4-Creating%20Dashboards/Create/Index%20Sync/)
     -   [Scenario Manager](Cubeplan/4-Creating%20Dashboards/Report%20Manager/scenario-manager-2/)
     -   [Dashboards toolbar](Cubeplan/4-Creating%20Dashboards/Report%20Manager/dashboard-toolbar-2/)
--   [Type of charts](Cubeplan/4-Creating%20Dashboards/Report%20Manager/Types-of-charts/)
+-   [Type of charts](Cubeplan/4-Creating%20Dashboards/Report%20Manager/Types%20of%20Charts/)
     -   [Charts toolbar](Cubeplan/4-Creating%20Dashboards/Report%20Manager/charts-toolbar/)
 
 # Editing Models  
@@ -78,7 +78,7 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzg0MTM5MCwxNjYyNjAyMTkwLDg4Mz
+eyJoaXN0b3J5IjpbMTkxMzA3MTg4NiwxNjYyNjAyMTkwLDg4Mz
 c4MzM0NCwxNzc1MDk0NTI0LDgxMzg0Mzg2NCwtMTY4NDEzMjA4
 OSwtMTU2NTk4MjEyMCwtMTM3NTM1NTQ2LDgwMjAxMjIyOCwyMD
 kxNjkxNjYwLC01Mzc4NjU0XX0=
