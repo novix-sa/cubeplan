@@ -1,6 +1,7 @@
 # Create a Model
 
-First click in the Influence Diagram Icon. A blank page will open
+First click in the Influence Diagram Icon. A blank page will open with the following left menu:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMDAxMjQwLC0xMzYzNTk1OTk5XX0=
+eyJoaXN0b3J5IjpbMzI0ODMxODAsLTEzNjM1OTU5OTldfQ==
 -->
