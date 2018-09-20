@@ -1,6 +1,8 @@
 # Create Nodes
 
 If you want to create a node you have to enable the diagram edit mode first; the following options will be available:
+
+
 |**Button**|**Node type**|**Shortcuts**|
 |--|--|--|
 |[![dia2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/dia2.png)|Variable|Ctrl+2|
@@ -34,5 +36,5 @@ To create an  **input node**, after selecting the node click  [![bot1](http://ww
 
 To create an  **output node**, after selecting the node click  [![bot1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot1.png) and select the option  [![bot1fun3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot1fun3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot1fun3.png).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjExODE0NF19
+eyJoaXN0b3J5IjpbLTIwNzMzOTE3ODBdfQ==
 -->
