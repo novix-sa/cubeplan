@@ -22,7 +22,7 @@ In this section, you will learn how to create, mark dashboards and reports as fa
 
 -   [Reports Manager](Cubeplan/4-Creating%20Dashboards/Report%20Manager/)
 -   Create dashboards
-    -   [Create blocks](Cubeplan/4-Creating%20Dashboards/Create/create-blocks/)
+    -   [Create blocks](Cubeplan/4-Creating%20Dashboards/Create/Create%20Blocks/)
     -   [Type of blocks](Cubeplan/4-Creating%20Dashboards/Create/Block%20Types/)
     -   [Blocks toolbar](Cubeplan/4-Creating%20Dashboards/Create/Blocks%20Toolbar/)
     -   [Time frame](Cubeplan/4-Creating%20Dashboards/Create/Timeframe/)
@@ -78,7 +78,7 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzOTIxNTU0LC0zNTExNzQ2OTIsMTY2Mj
+eyJoaXN0b3J5IjpbOTI4NzA4MDYwLC0zNTExNzQ2OTIsMTY2Mj
 YwMjE5MCw4ODM3ODMzNDQsMTc3NTA5NDUyNCw4MTM4NDM4NjQs
 LTE2ODQxMzIwODksLTE1NjU5ODIxMjAsLTEzNzUzNTU0Niw4MD
 IwMTIyMjgsMjA5MTY5MTY2MCwtNTM3ODY1NF19
