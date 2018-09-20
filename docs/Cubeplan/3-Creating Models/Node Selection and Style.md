@@ -20,30 +20,14 @@ To send a node to the back, you must first select a node, click  [![bot2](http:/
 ## Style
 
 The button  [![bot3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3.png) allows you to enable the follow option:
-
-[![bot3fun1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun1.png)
-
-The node input arrows are shown in the diagram.
-
-[![bot3fun2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun2.png)
-
-The node output arrows are shown in the diagram.
-
-[![bot3fun3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun3.png)
-
-The node title is shown.
-
-[![bot3fun4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun4.png)
-
-The node border is shown.
-
-[![bot3fun5](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun5.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun5.png)
-
-The node background color is visible.
-
-[![dia47](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/08/dia47.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/08/dia47.png)
-
-You will be able to choose the font type and size for the nodes you selected.
+|Icon|Description|
+|--|--|
+|[![bot3fun1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun1.png)|The node input arrows are shown in the diagram.|
+|[![bot3fun2](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun2.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun2.png)|The node output arrows are shown in the diagram.|
+|[![bot3fun3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun3.png)|The node title is shown.|
+|[![bot3fun4](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun4.png)|The node border is shown.|
+|[![bot3fun5](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun5.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun5.png)|The node background color is visible.|
+|[![dia47](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/08/dia47.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/08/dia47.png)|You will be able to choose the font type and size for the nodes you selected.|
 
 ## Color
 
@@ -97,5 +81,5 @@ It aligns bottom edges
 
 ### Related Articles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2ODEyMDVdfQ==
+eyJoaXN0b3J5IjpbLTE1MTU3NjI3OTZdfQ==
 -->
