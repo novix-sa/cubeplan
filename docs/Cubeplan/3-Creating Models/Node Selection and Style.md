@@ -20,6 +20,7 @@ To send a node to the back, you must first select a node, click  [![bot2](http:/
 ## Style
 
 The button  [![bot3](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3.png) allows you to enable the follow option:
+
 |Icon|Description|
 |--|--|
 |[![bot3fun1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot3fun1.png)|The node input arrows are shown in the diagram.|
@@ -61,6 +62,6 @@ The same way as to set the size, first you must select the nodes. The node with 
 |[![bot6fun6](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun6.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun6.png)|It centers top and bottom edges|
 |[![bot6fun7](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/05/bot6fun7.png)|It aligns bottom edges|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDQ5NDU2MiwtNjEzNjQ1MjM2LC0xNT
-E1NzYyNzk2XX0=
+eyJoaXN0b3J5IjpbNjA5MzEwNDc2LC02MTM2NDUyMzYsLTE1MT
+U3NjI3OTZdfQ==
 -->
