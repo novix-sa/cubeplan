@@ -1,8 +1,6 @@
 # Stacked Columns
 
--   Created  [December 15, 2016](http://www.cubeplat.com:8081/wiki/knowledge-base/stacked-column-2/)
--   Author  [Lucia Benvenuto](http://www.cubeplat.com:8081/wiki/en/author/lbenvenuto/ "Lucia Benvenuto")
--   Category  [Graphs](http://www.cubeplat.com:8081/wiki/en/article-categories/graphs/)
+
 
 [![stac1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/stac1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/stac1.png)
 
@@ -20,5 +18,5 @@ Click  **Appearance**  to open  [this window](http://www.cubeplat.com:8081/wiki/
 
 **Number format:** go to [Number format](http://www.cubeplat.com:8081/wiki/en/knowledge-base/number-format-2/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE3NjE2NzNdfQ==
+eyJoaXN0b3J5IjpbLTEyNDM0Nzc4NzJdfQ==
 -->
