@@ -23,7 +23,7 @@ The top margin has the following format:
 
 [![barra](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/barra.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/barra.png)
 
-The Cubeplan version number is displayed on the left margin; next to it, you find the following button  [![acth](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/acth.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/acth.png). It enables/disables the vertical toolbar displayed on the left margin. Then, you find the name of the module you are in and the button to close it; if you close the current module, the page returns to the previous module.  
+The Pyplan version number is displayed on the left margin; next to it, you find the following button  [![acth](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/acth.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/acth.png). It enables/disables the vertical toolbar displayed on the left margin. Then, you find the name of the module you are in and the button to close it; if you close the current module, the page returns to the previous module.  
 You will find the button  [![guardar](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/guardar.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/guardar.png) on the right margin. It allows you to save any changes introduced in the model. This buttom turns yellow  [![cambia](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/cambia.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/cambia.png)  when there are changes to save. If you need to save changes in a new version of the model, you can do so by clicking [![guardarcomo](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/guardarcomo.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/06/guardarcomo.png).
 
 On the right, you can see the model currently open. If you click on it, a window will open showing the properties of the model. This window looks like this:
@@ -88,5 +88,6 @@ You can resume a session by clicking [![session3](http://www.cubeplat.com:8081/w
 
 Once you have customized the home page, click [![conf](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png) again and then click  [![conf3](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png). The changes will be applied and the home page will be ready to use.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDA4ODY2OCwxNzM2ODQzODU5XX0=
+eyJoaXN0b3J5IjpbMjY1NDQ1Nzc2LC01MjAwODg2NjgsMTczNj
+g0Mzg1OV19
 -->
