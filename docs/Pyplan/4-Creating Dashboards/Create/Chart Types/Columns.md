@@ -1,8 +1,6 @@
 # Columns
 
--   Created  [December 15, 2016](http://www.cubeplat.com:8081/wiki/knowledge-base/column-2/)
--   Author  [Lucia Benvenuto](http://www.cubeplat.com:8081/wiki/en/author/lbenvenuto/ "Lucia Benvenuto")
--   Category  [Graphs](http://www.cubeplat.com:8081/wiki/en/article-categories/graphs/)
+
 
 [![col1](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/col1.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2016/04/col1.png)
 
@@ -20,5 +18,5 @@ Click  **Appearance**  to open  [this window](http://www.cubeplat.com:8081/wiki/
 
 **Number format:** go to [Number format](http://www.cubeplat.com:8081/wiki/en/knowledge-base/number-format-2/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDQ5MDQ2N119
+eyJoaXN0b3J5IjpbMTA5OTMwMzc0Ml19
 -->
