@@ -1,9 +1,9 @@
 
 ## How to Sign up
 
-Signing up allows you to access Cubeplan. To log in, click the following URL: [Cubeplan](http://www.cubeplat.com/cubeplanmilano/)
+Signing up allows you to access Pyplan. To log in, click the following URL: [Pyplan](http://www.cubeplat.com/cubeplanmilano/)
 
-Cubeplan page will open, it has the following format:
+Pyplan page will open, it has the following format:
 
 [![login1](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/02/login1-300x263.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/02/login1.png)
 
@@ -42,5 +42,5 @@ When you finish, click [![um8](http://www.cubeplat.com:8081/wiki/wp-content/uplo
 
 To log off, click  [![out1](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/out1.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/out1.png). You can find this button on the upper right corner of the window.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk2NjU5NTNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjY4OTE2NV19
 -->
