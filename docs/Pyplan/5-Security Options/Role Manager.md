@@ -1,9 +1,4 @@
-
 # Role manager
-Contents  [[hide](http://www.cubeplat.com:8081/wiki/en/knowledge-base/role-manager-2/#)]
-
--   [1  Role Manager](http://www.cubeplat.com:8081/wiki/en/knowledge-base/role-manager-2/#Role_Manager)
--   [2  New Role](http://www.cubeplat.com:8081/wiki/en/knowledge-base/role-manager-2/#New_Role)
 
 ## Role Manager
 
@@ -38,5 +33,5 @@ It deletes the role.
 
 Once you finish, click  [![](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2017/01/rm4.png)](http://www.cubeplat.com:8081/wiki/wp-content/uploads/2017/01/rm4.png).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjI1MTM2M119
+eyJoaXN0b3J5IjpbMTA1MTc4Nzg3Nl19
 -->
