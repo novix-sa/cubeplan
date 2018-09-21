@@ -1,5 +1,5 @@
 # Summary
-## Home
+## Homepage
 The home page can be customized to meet the user’s need. You can add widgets to see the different modules within the system as well as the last dashboards and models used.
 [Widget editor](http://www.cubeplat.com:8081/wiki/en/knowledge-base/summary-2/#Widget_editor)
 
@@ -88,5 +88,5 @@ You can resume a session by clicking [![session3](http://www.cubeplat.com:8081/w
 
 Once you have customized the home page, click [![conf](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf.png) again and then click  [![conf3](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png)](http://162.252.81.163:8081/wiki/wp-content/uploads/2016/03/conf3.png). The changes will be applied and the home page will be ready to use.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjg0Mzg1OV19
+eyJoaXN0b3J5IjpbLTUyMDA4ODY2OCwxNzM2ODQzODU5XX0=
 -->
