@@ -8,7 +8,8 @@ The calculation logic is structured through influence diagrams, a visual represe
 The calculation logic is created using the most popular Python libraries like:
 	Pandas for working with database like info
 	Xarrays for handling multidimensional labeled arrays
-	and Numpy for wo
+	and Numpy for powerful working with N-dimensional array
+
 Any step in the process could later be used as an Input/Output module, that are the building blocks of user interfaces.
 Apps are later shared between partners or even to the general public.
 
@@ -32,7 +33,7 @@ pp.indexFromExcel
 pp.dataArrayFromExcel
 pp.dynamic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NTY1NDE2LC0xMjk4ODkxMjg2LDEwOT
-M2Nzk3NDYsLTIwMTMwNDI5MiwtMTU4MzU5MTQxNCwxNDI2MjM2
-OTEzLC0yNzgzNDI3ODEsODQ4MTAxMDEsNzM2MjQxNzFdfQ==
+eyJoaXN0b3J5IjpbLTE2NjIwNjkwMzIsLTEyOTg4OTEyODYsMT
+A5MzY3OTc0NiwtMjAxMzA0MjkyLC0xNTgzNTkxNDE0LDE0MjYy
+MzY5MTMsLTI3ODM0Mjc4MSw4NDgxMDEwMSw3MzYyNDE3MV19
 -->
