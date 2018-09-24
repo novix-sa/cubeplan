@@ -11,7 +11,9 @@ The calculation logic is created using the most popular Python libraries like:
  - Xarrays for handling multidimensional labeled arrays 
  - and Numpy for powerful working with N-dimensional array (unnamed)
 
-Any other Python library can be used (imported) as the Administrator of the system authorize its installing
+Any other Python library can be used (imported) as the Administrator of the system authorize its installing on the server.
+The process steps can be inspected and evaluated to check its outputs and performance.
+
 Any step in the process could later be used as an Input/Output module, that are the building blocks of user interfaces.
 Apps are later shared between partners or even to the general public.
 
@@ -35,7 +37,7 @@ pp.indexFromExcel
 pp.dataArrayFromExcel
 pp.dynamic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI3OTIzNjMsLTEyOTg4OTEyODYsMT
-A5MzY3OTc0NiwtMjAxMzA0MjkyLC0xNTgzNTkxNDE0LDE0MjYy
-MzY5MTMsLTI3ODM0Mjc4MSw4NDgxMDEwMSw3MzYyNDE3MV19
+eyJoaXN0b3J5IjpbNzI0MjE4NDgzLC0xMjk4ODkxMjg2LDEwOT
+M2Nzk3NDYsLTIwMTMwNDI5MiwtMTU4MzU5MTQxNCwxNDI2MjM2
+OTEzLC0yNzgzNDI3ODEsODQ4MTAxMDEsNzM2MjQxNzFdfQ==
 -->
