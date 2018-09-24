@@ -16,8 +16,8 @@ Any other Python library can be used (imported) as the Administrator of the syst
 The process steps (nodes) can be inspected and evaluated to check its logic, outputs and performance (Ctrl E).
 Double clicking the node, it is evaluated, showing it result as a table or graph for further analysis.
 
-## O
-Any step in the process could later be used as an Input/Output module, that are the building blocks of user interfaces.
+## Input-Output User Interfaces
+Any step in the process could be used as an Input/Output module. Nodes and Index are the the building blocks of user interfaces.
 Apps are later shared between partners or even to the general public.
 
 
@@ -40,7 +40,7 @@ pp.indexFromExcel
 pp.dataArrayFromExcel
 pp.dynamic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MTYxOTkzLC0xMjk4ODkxMjg2LDEwOT
-M2Nzk3NDYsLTIwMTMwNDI5MiwtMTU4MzU5MTQxNCwxNDI2MjM2
-OTEzLC0yNzgzNDI3ODEsODQ4MTAxMDEsNzM2MjQxNzFdfQ==
+eyJoaXN0b3J5IjpbLTkzODQ2OTE4NSwtMTI5ODg5MTI4NiwxMD
+kzNjc5NzQ2LC0yMDEzMDQyOTIsLTE1ODM1OTE0MTQsMTQyNjIz
+NjkxMywtMjc4MzQyNzgxLDg0ODEwMTAxLDczNjI0MTcxXX0=
 -->
