@@ -4,6 +4,7 @@ What it is:
 **Pyplan.org**
 Pyplan is an integrated development environment (IDE) of Python data analytics and data modeling Apps.
 Apps are developed through a drag and drop interface that allows creating the calculation logic and the Input/Output user interface.
+## Data Analysis and Modeling
 The calculation logic is structured through influence diagrams, a visual representation of the calculation logic that brings transparency to the app data processes.
 The calculation logic is created using the most popular Python libraries like:
 
@@ -13,7 +14,9 @@ The calculation logic is created using the most popular Python libraries like:
 
 Any other Python library can be used (imported) as the Administrator of the system authorize its installing on the server.
 The process steps (nodes) can be inspected and evaluated to check its logic, outputs and performance (Ctrl E).
-Double clicking the node, it is evaluated, showing it 
+Double clicking the node, it is evaluated, showing it result as a table or graph for further analysis.
+
+## O
 Any step in the process could later be used as an Input/Output module, that are the building blocks of user interfaces.
 Apps are later shared between partners or even to the general public.
 
@@ -37,7 +40,7 @@ pp.indexFromExcel
 pp.dataArrayFromExcel
 pp.dynamic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2Mzk4MTg4LC0xMjk4ODkxMjg2LDEwOT
+eyJoaXN0b3J5IjpbODg0MTYxOTkzLC0xMjk4ODkxMjg2LDEwOT
 M2Nzk3NDYsLTIwMTMwNDI5MiwtMTU4MzU5MTQxNCwxNDI2MjM2
 OTEzLC0yNzgzNDI3ODEsODQ4MTAxMDEsNzM2MjQxNzFdfQ==
 -->
