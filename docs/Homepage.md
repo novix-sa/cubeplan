@@ -6,10 +6,12 @@ Pyplan is an integrated development environment (IDE) of Python data analytics a
 Apps are developed through a drag and drop interface that allows creating the calculation logic and the Input/Output user interface.
 The calculation logic is structured through influence diagrams, a visual representation of the calculation logic that brings transparency to the app data processes.
 The calculation logic is created using the most popular Python libraries like:
-	Pandas for working with database like info
-	Xarrays for handling multidimensional labeled arrays
-	and Numpy for powerful working with N-dimensional array
 
+ - Pandas for working with database like information 
+ - Xarrays for handling multidimensional labeled arrays 
+ - and Numpy for powerful working with N-dimensional array
+
+Any other library c
 Any step in the process could later be used as an Input/Output module, that are the building blocks of user interfaces.
 Apps are later shared between partners or even to the general public.
 
@@ -33,7 +35,7 @@ pp.indexFromExcel
 pp.dataArrayFromExcel
 pp.dynamic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjIwNjkwMzIsLTEyOTg4OTEyODYsMT
-A5MzY3OTc0NiwtMjAxMzA0MjkyLC0xNTgzNTkxNDE0LDE0MjYy
-MzY5MTMsLTI3ODM0Mjc4MSw4NDgxMDEwMSw3MzYyNDE3MV19
+eyJoaXN0b3J5IjpbLTIwOTc3OTYxNSwtMTI5ODg5MTI4NiwxMD
+kzNjc5NzQ2LC0yMDEzMDQyOTIsLTE1ODM1OTE0MTQsMTQyNjIz
+NjkxMywtMjc4MzQyNzgxLDg0ODEwMTAxLDczNjI0MTcxXX0=
 -->
