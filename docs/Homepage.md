@@ -15,8 +15,20 @@ It is a graphical tool intended for Business Analysts that can create interactiv
 
 It is designed as a server-client application intended for supporting Business Analytics, Budgeting, Integrated Business Planning, Strategic Planning and Business Control at corporate level.
 
+## Pyplan function list
+
+pp.dataArray (lo que antes era cp.cube)
+pp.index
+pp.createTime
+pp.changeIndex
+pp.indexFromPandas
+pp.excel
+pp.pandasFromExcel
+pp.indexFromExcel
+pp.dataArrayFromExcel
+ pp.dynamic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg4OTEyODYsMTA5MzY3OTc0NiwtMj
-AxMzA0MjkyLC0xNTgzNTkxNDE0LDE0MjYyMzY5MTMsLTI3ODM0
-Mjc4MSw4NDgxMDEwMSw3MzYyNDE3MV19
+eyJoaXN0b3J5IjpbLTkzNTIxNzAyOCwtMTI5ODg5MTI4NiwxMD
+kzNjc5NzQ2LC0yMDEzMDQyOTIsLTE1ODM1OTE0MTQsMTQyNjIz
+NjkxMywtMjc4MzQyNzgxLDg0ODEwMTAxLDczNjI0MTcxXX0=
 -->
