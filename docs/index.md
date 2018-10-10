@@ -9,8 +9,8 @@ In the following sections you will learn how to use the Pyplan User Guide, the s
 # First steps in Pyplan  
 This section presents the basic concepts such as: 1) log in, log out and edit profile, 2) main window, property bar and widgets.
 
--   [Sign up](/Pyplan/Introduction/Sign%20up)
--   [Summary](/2-Summary)
+-   [Summary](/Pyplan/1-Introduction/Intro)
+-   [Sign up](/Pyplan/1-Introduction/Sign%20up)
 
 # File Manager  
 In this section, you will learn how to manage different files on which the model is based. You can duplicate folders, create new ones, rename existing files, move a file to a different location, compress and unzip a file, upload new files or download existing ones.
@@ -79,9 +79,9 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMzY4MjM4LC02MjkyMzc4MDYsLTk0OD
-E1NzkxNCw5Mjg3MDgwNjAsLTM1MTE3NDY5MiwxNjYyNjAyMTkw
-LDg4Mzc4MzM0NCwxNzc1MDk0NTI0LDgxMzg0Mzg2NCwtMTY4ND
-EzMjA4OSwtMTU2NTk4MjEyMCwtMTM3NTM1NTQ2LDgwMjAxMjIy
-OCwyMDkxNjkxNjYwLC01Mzc4NjU0XX0=
+eyJoaXN0b3J5IjpbLTE5NzUxNzYzMDMsLTYyOTIzNzgwNiwtOT
+Q4MTU3OTE0LDkyODcwODA2MCwtMzUxMTc0NjkyLDE2NjI2MDIx
+OTAsODgzNzgzMzQ0LDE3NzUwOTQ1MjQsODEzODQzODY0LC0xNj
+g0MTMyMDg5LC0xNTY1OTgyMTIwLC0xMzc1MzU1NDYsODAyMDEy
+MjI4LDIwOTE2OTE2NjAsLTUzNzg2NTRdfQ==
 -->
