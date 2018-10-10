@@ -3,8 +3,8 @@
 In the following sections you will learn how to use the Pyplan User Guide, the system requirements and the steps to follow in order to use Pyplan.
 
 -   [User Requirements ](Pyplan/1-Introduction/Intro/#User-Requirements)
--   [How to Access to Pyplan](Pyplan/Introduction/Intro/#how-to-access-pyplan)
--   [How to Use this Manual](Pyplan/Introduction/Intro/#how-to-use-the-knowledge-base)
+-   [How to Access to Pyplan](Pyplan/1-Introduction/Intro/#how-to-access-pyplan)
+-   [How to Use this Manual](Pyplan/1-Introduction/Intro/#how-to-use-the-knowledge-base)
 
 # First steps in Pyplan  
 This section presents the basic concepts such as: 1) log in, log out and edit profile, 2) main window, property bar and widgets.
@@ -79,9 +79,9 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzUxNzYzMDMsLTYyOTIzNzgwNiwtOT
-Q4MTU3OTE0LDkyODcwODA2MCwtMzUxMTc0NjkyLDE2NjI2MDIx
-OTAsODgzNzgzMzQ0LDE3NzUwOTQ1MjQsODEzODQzODY0LC0xNj
-g0MTMyMDg5LC0xNTY1OTgyMTIwLC0xMzc1MzU1NDYsODAyMDEy
-MjI4LDIwOTE2OTE2NjAsLTUzNzg2NTRdfQ==
+eyJoaXN0b3J5IjpbNTg3MzgxOTA1LC0xOTc1MTc2MzAzLC02Mj
+kyMzc4MDYsLTk0ODE1NzkxNCw5Mjg3MDgwNjAsLTM1MTE3NDY5
+MiwxNjYyNjAyMTkwLDg4Mzc4MzM0NCwxNzc1MDk0NTI0LDgxMz
+g0Mzg2NCwtMTY4NDEzMjA4OSwtMTU2NTk4MjEyMCwtMTM3NTM1
+NTQ2LDgwMjAxMjIyOCwyMDkxNjkxNjYwLC01Mzc4NjU0XX0=
 -->
