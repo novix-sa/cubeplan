@@ -36,8 +36,8 @@ Numerical positive, element-wise.
 
 [`power`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.power.html#numpy.power "numpy.power")(x1, x2, /[, out, where, casting, …])
 First array elements raised to powers from second array, element-wise.
-| | |
-|
+|Function|Description|
+|--|--|
 [`remainder`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.remainder.html#numpy.remainder "numpy.remainder")(x1, x2, /[, out, where, casting, …])
 Return element-wise remainder of division.
 
@@ -299,7 +299,7 @@ Return the ceiling of the input, element-wise.
 Return the truncated value of the input, element-wise.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg1NjYwMzAsMTMxMjI2ODExMSw2MT
-c3ODM2NjAsMTMxOTQxMzk3OCwtMjA5NTI2MTczMywtMTM2NzM4
-NzM5OSwtNDI0NDU1MTk3XX0=
+eyJoaXN0b3J5IjpbNjAxODI5MzM0LDEzMTIyNjgxMTEsNjE3Nz
+gzNjYwLDEzMTk0MTM5NzgsLTIwOTUyNjE3MzMsLTEzNjczODcz
+OTksLTQyNDQ1NTE5N119
 -->
