@@ -144,11 +144,9 @@ Given the “legs” of a right triangle, return its hypotenuse.
 Hyperbolic sine, element-wise.
 
 [`cosh`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.cosh.html#numpy.cosh "numpy.cosh")(x, /[, out, where, casting, order, …])
-
 Hyperbolic cosine, element-wise.
 
 [`tanh`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.tanh.html#numpy.tanh "numpy.tanh")(x, /[, out, where, casting, order, …])
-
 Compute hyperbolic tangent element-wise.
 
 [`arcsinh`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.arcsinh.html#numpy.arcsinh "numpy.arcsinh")(x, /[, out, where, casting, order, …])
@@ -156,19 +154,15 @@ Compute hyperbolic tangent element-wise.
 Inverse hyperbolic sine element-wise.
 
 [`arccosh`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.arccosh.html#numpy.arccosh "numpy.arccosh")(x, /[, out, where, casting, order, …])
-
 Inverse hyperbolic cosine, element-wise.
 
 [`arctanh`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.arctanh.html#numpy.arctanh "numpy.arctanh")(x, /[, out, where, casting, order, …])
-
 Inverse hyperbolic tangent element-wise.
 
 [`deg2rad`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.deg2rad.html#numpy.deg2rad "numpy.deg2rad")(x, /[, out, where, casting, order, …])
-
 Convert angles from degrees to radians.
 
 [`rad2deg`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.rad2deg.html#numpy.rad2deg "numpy.rad2deg")(x, /[, out, where, casting, order, …])
-
 Convert angles from radians to degrees.
 
 ### Bit-twiddling functions[](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#bit-twiddling-functions "Permalink to this headline")
@@ -176,23 +170,18 @@ Convert angles from radians to degrees.
 These function all require integer arguments and they manipulate the bit-pattern of those arguments.
 
 [`bitwise_and`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.bitwise_and.html#numpy.bitwise_and "numpy.bitwise_and")(x1, x2, /[, out, where, …])
-
 Compute the bit-wise AND of two arrays element-wise.
 
 [`bitwise_or`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.bitwise_or.html#numpy.bitwise_or "numpy.bitwise_or")(x1, x2, /[, out, where, casting, …])
-
 Compute the bit-wise OR of two arrays element-wise.
 
 [`bitwise_xor`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.bitwise_xor.html#numpy.bitwise_xor "numpy.bitwise_xor")(x1, x2, /[, out, where, …])
-
 Compute the bit-wise XOR of two arrays element-wise.
 
 [`invert`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.invert.html#numpy.invert "numpy.invert")(x, /[, out, where, casting, order, …])
-
 Compute bit-wise inversion, or bit-wise NOT, element-wise.
 
 [`left_shift`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.left_shift.html#numpy.left_shift "numpy.left_shift")(x1, x2, /[, out, where, casting, …])
-
 Shift the bits of an integer to the left.
 
 [`right_shift`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.right_shift.html#numpy.right_shift "numpy.right_shift")(x1, x2, /[, out, where, …])
@@ -202,43 +191,33 @@ Shift the bits of an integer to the right.
 ### Comparison functions[](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#comparison-functions "Permalink to this headline")
 
 [`greater`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.greater.html#numpy.greater "numpy.greater")(x1, x2, /[, out, where, casting, …])
-
 Return the truth value of (x1 > x2) element-wise.
 
 [`greater_equal`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.greater_equal.html#numpy.greater_equal "numpy.greater_equal")(x1, x2, /[, out, where, …])
-
 Return the truth value of (x1 >= x2) element-wise.
 
 [`less`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.less.html#numpy.less "numpy.less")(x1, x2, /[, out, where, casting, …])
-
 Return the truth value of (x1 < x2) element-wise.
 
 [`less_equal`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.less_equal.html#numpy.less_equal "numpy.less_equal")(x1, x2, /[, out, where, casting, …])
-
 Return the truth value of (x1 =< x2) element-wise.
 
 [`not_equal`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.not_equal.html#numpy.not_equal "numpy.not_equal")(x1, x2, /[, out, where, casting, …])
-
 Return (x1 != x2) element-wise.
 
 [`equal`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.equal.html#numpy.equal "numpy.equal")(x1, x2, /[, out, where, casting, …])
-
 Return (x1 == x2) element-wise.
 
 Warning
-
 Do not use the Python keywords  `and`  and  `or`  to combine logical array expressions. These keywords will test the truth value of the entire array (not element-by-element as you might expect). Use the bitwise operators & and | instead.
 
 [`logical_and`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.logical_and.html#numpy.logical_and "numpy.logical_and")(x1, x2, /[, out, where, …])
-
 Compute the truth value of x1 AND x2 element-wise.
 
 [`logical_or`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.logical_or.html#numpy.logical_or "numpy.logical_or")(x1, x2, /[, out, where, casting, …])
-
 Compute the truth value of x1 OR x2 element-wise.
 
 [`logical_xor`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.logical_xor.html#numpy.logical_xor "numpy.logical_xor")(x1, x2, /[, out, where, …])
-
 Compute the truth value of x1 XOR x2, element-wise.
 
 [`logical_not`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.logical_not.html#numpy.logical_not "numpy.logical_not")(x, /[, out, where, casting, …])
@@ -246,31 +225,24 @@ Compute the truth value of x1 XOR x2, element-wise.
 Compute the truth value of NOT x element-wise.
 
 Warning
-
 The bit-wise operators & and | are the proper way to perform element-by-element array comparisons. Be sure you understand the operator precedence:  `(a  >  2)  &  (a  <  5)`  is the proper syntax because  `a  >  2  &  a  <  5`  will result in an error due to the fact that  `2  &  a`  is evaluated first.
 
 [`maximum`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.maximum.html#numpy.maximum "numpy.maximum")(x1, x2, /[, out, where, casting, …])
-
 Element-wise maximum of array elements.
 
 Tip
-
 The Python function  `max()`  will find the maximum over a one-dimensional array, but it will do so using a slower sequence interface. The reduce method of the maximum ufunc is much faster. Also, the  `max()`  method will not give answers you might expect for arrays with greater than one dimension. The reduce method of minimum also allows you to compute a total minimum over an array.
 
 [`minimum`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.minimum.html#numpy.minimum "numpy.minimum")(x1, x2, /[, out, where, casting, …])
-
 Element-wise minimum of array elements.
 
 Warning
-
 the behavior of  `maximum(a,  b)`  is different than that of  `max(a,  b)`. As a ufunc,  `maximum(a,  b)`  performs an element-by-element comparison of  _a_  and  _b_  and chooses each element of the result according to which element in the two arrays is larger. In contrast,  `max(a,  b)`  treats the objects  _a_  and  _b_  as a whole, looks at the (total) truth value of  `a  >  b`and uses it to return either  _a_  or  _b_  (as a whole). A similar difference exists between  `minimum(a,  b)`  and  `min(a,  b)`.
 
 [`fmax`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.fmax.html#numpy.fmax "numpy.fmax")(x1, x2, /[, out, where, casting, …])
-
 Element-wise maximum of array elements.
 
 [`fmin`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.fmin.html#numpy.fmin "numpy.fmin")(x1, x2, /[, out, where, casting, …])
-
 Element-wise minimum of array elements.
 
 ### Floating functions[](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#floating-functions "Permalink to this headline")
@@ -278,15 +250,12 @@ Element-wise minimum of array elements.
 Recall that all of these functions work element-by-element over an array, returning an array output. The description details only a single operation.
 
 [`isfinite`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.isfinite.html#numpy.isfinite "numpy.isfinite")(x, /[, out, where, casting, order, …])
-
 Test element-wise for finiteness (not infinity or not Not a Number).
 
 [`isinf`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.isinf.html#numpy.isinf "numpy.isinf")(x, /[, out, where, casting, order, …])
-
 Test element-wise for positive or negative infinity.
 
 [`isnan`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.isnan.html#numpy.isnan "numpy.isnan")(x, /[, out, where, casting, order, …])
-
 Test element-wise for NaN and return result as a boolean array.
 
 [`isnat`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.isnat.html#numpy.isnat "numpy.isnat")(x, /[, out, where, casting, order, …])
@@ -294,15 +263,12 @@ Test element-wise for NaN and return result as a boolean array.
 Test element-wise for NaT (not a time) and return result as a boolean array.
 
 [`fabs`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.fabs.html#numpy.fabs "numpy.fabs")(x, /[, out, where, casting, order, …])
-
 Compute the absolute values element-wise.
 
 [`signbit`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.signbit.html#numpy.signbit "numpy.signbit")(x, /[, out, where, casting, order, …])
-
 Returns element-wise True where signbit is set (less than zero).
 
 [`copysign`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.copysign.html#numpy.copysign "numpy.copysign")(x1, x2, /[, out, where, casting, …])
-
 Change the sign of x1 to that of x2, element-wise.
 
 [`nextafter`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.nextafter.html#numpy.nextafter "numpy.nextafter")(x1, x2, /[, out, where, casting, …])
@@ -310,11 +276,9 @@ Change the sign of x1 to that of x2, element-wise.
 Return the next floating-point value after x1 towards x2, element-wise.
 
 [`spacing`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.spacing.html#numpy.spacing "numpy.spacing")(x, /[, out, where, casting, order, …])
-
 Return the distance between x and the nearest adjacent number.
 
 [`modf`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.modf.html#numpy.modf "numpy.modf")(x[, out1, out2], / [[, out, where, …])
-
 Return the fractional and integral parts of an array, element-wise.
 
 [`ldexp`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.ldexp.html#numpy.ldexp "numpy.ldexp")(x1, x2, /[, out, where, casting, …])
@@ -371,7 +335,7 @@ Return the truncated value of the input, element-wise.
 
 #### Quick search
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDAzNDcwMCw2MTc3ODM2NjAsMTMxOT
+eyJoaXN0b3J5IjpbMTcwODM5NDc5Miw2MTc3ODM2NjAsMTMxOT
 QxMzk3OCwtMjA5NTI2MTczMywtMTM2NzM4NzM5OSwtNDI0NDU1
 MTk3XX0=
 -->
