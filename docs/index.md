@@ -1,11 +1,11 @@
 
 # Introduction
-Pyplan is the unique platform for developing Business Intelligence, Data Analytics and Corporate Performance Management (CPM) based on the *lingua franca* of data science: Python
+Pyplan is the unique platform for developing Business Intelligence, Data Analytics and Corporate Performance Management (CPM) apps based on the *lingua franca* of data science: Python
 
-It is a graphical tool intended for creating data analytics apps Business Analysts that can create interactive analytical apps and share them.
+Apps are developed through a drag and drop user interface that allows creating the calculation logic and the Input/Output user interface in a very user-friendly way.
 
 In general terms, Pyplan is an integrated development environment (IDE) of Python data analytics and data modeling Apps.
-Apps are developed through a drag and drop user interface that allows creating the calculation logic and the Input/Output user interface in a very user friendly way.
+
 ## Data Analysis and Modeling
 The calculation logic is structured through influence diagrams, a visual representation of the calculation logic that brings transparency to the app data processes.
 The calculation logic is created using the most popular Python libraries like:
@@ -35,7 +35,7 @@ It is designed as a server-client application intended for supporting Business A
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjg1ODU4MSw1ODczODE5MDUsLTE5Nz
+eyJoaXN0b3J5IjpbMTczOTEyNjI4OCw1ODczODE5MDUsLTE5Nz
 UxNzYzMDMsLTYyOTIzNzgwNiwtOTQ4MTU3OTE0LDkyODcwODA2
 MCwtMzUxMTc0NjkyLDE2NjI2MDIxOTAsODgzNzgzMzQ0LDE3Nz
 UwOTQ1MjQsODEzODQzODY0LC0xNjg0MTMyMDg5LC0xNTY1OTgy
