@@ -242,8 +242,7 @@ Element-wise maximum of array elements.
 [`fmin`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.fmin.html#numpy.fmin "numpy.fmin")(x1, x2, /[, out, where, casting, …])
 Element-wise minimum of array elements.
 
-### Floating functions[](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#floating-functions "Permalink to this headline")
-
+## Floating functions
 Recall that all of these functions work element-by-element over an array, returning an array output. The description details only a single operation.
 
 [`isfinite`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.isfinite.html#numpy.isfinite "numpy.isfinite")(x, /[, out, where, casting, order, …])
@@ -298,7 +297,7 @@ Return the ceiling of the input, element-wise.
 Return the truncated value of the input, element-wise.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTA0ODQyMyw2MTc3ODM2NjAsMTMxOT
+eyJoaXN0b3J5IjpbMTMxMjI2ODExMSw2MTc3ODM2NjAsMTMxOT
 QxMzk3OCwtMjA5NTI2MTczMywtMTM2NzM4NzM5OSwtNDI0NDU1
 MTk3XX0=
 -->
