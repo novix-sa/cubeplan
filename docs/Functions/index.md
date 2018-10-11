@@ -32,31 +32,24 @@ Return the largest integer smaller or equal to the division of the inputs.
 Numerical negative, element-wise.
 
 [`positive`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.positive.html#numpy.positive "numpy.positive")(x, /[, out, where, casting, order, …])
-
 Numerical positive, element-wise.
 
 [`power`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.power.html#numpy.power "numpy.power")(x1, x2, /[, out, where, casting, …])
-
 First array elements raised to powers from second array, element-wise.
 
 [`remainder`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.remainder.html#numpy.remainder "numpy.remainder")(x1, x2, /[, out, where, casting, …])
-
 Return element-wise remainder of division.
 
 [`mod`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.mod.html#numpy.mod "numpy.mod")(x1, x2, /[, out, where, casting, order, …])
-
 Return element-wise remainder of division.
 
 [`fmod`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.fmod.html#numpy.fmod "numpy.fmod")(x1, x2, /[, out, where, casting, …])
-
 Return the element-wise remainder of division.
 
 [`divmod`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.divmod.html#numpy.divmod "numpy.divmod")(x1, x2[, out1, out2], / [[, out, …])
-
 Return element-wise quotient and remainder simultaneously.
 
 [`absolute`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.absolute.html#numpy.absolute "numpy.absolute")(x, /[, out, where, casting, order, …])
-
 Calculate the absolute value element-wise.
 
 [`fabs`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.fabs.html#numpy.fabs "numpy.fabs")(x, /[, out, where, casting, order, …])
@@ -64,43 +57,33 @@ Calculate the absolute value element-wise.
 Compute the absolute values element-wise.
 
 [`rint`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.rint.html#numpy.rint "numpy.rint")(x, /[, out, where, casting, order, …])
-
 Round elements of the array to the nearest integer.
 
 [`sign`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.sign.html#numpy.sign "numpy.sign")(x, /[, out, where, casting, order, …])
-
 Returns an element-wise indication of the sign of a number.
 
 [`heaviside`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.heaviside.html#numpy.heaviside "numpy.heaviside")(x1, x2, /[, out, where, casting, …])
-
 Compute the Heaviside step function.
 
 [`conj`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.conj.html#numpy.conj "numpy.conj")(x, /[, out, where, casting, order, …])
-
 Return the complex conjugate, element-wise.
 
 [`exp`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.exp.html#numpy.exp "numpy.exp")(x, /[, out, where, casting, order, …])
-
 Calculate the exponential of all elements in the input array.
 
 [`exp2`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.exp2.html#numpy.exp2 "numpy.exp2")(x, /[, out, where, casting, order, …])
-
 Calculate  _2**p_  for all  _p_  in the input array.
 
 [`log`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.log.html#numpy.log "numpy.log")(x, /[, out, where, casting, order, …])
-
 Natural logarithm, element-wise.
 
 [`log2`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.log2.html#numpy.log2 "numpy.log2")(x, /[, out, where, casting, order, …])
-
 Base-2 logarithm of  _x_.
 
 [`log10`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.log10.html#numpy.log10 "numpy.log10")(x, /[, out, where, casting, order, …])
-
 Return the base 10 logarithm of the input array, element-wise.
 
 [`expm1`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.expm1.html#numpy.expm1 "numpy.expm1")(x, /[, out, where, casting, order, …])
-
 Calculate  `exp(x)  -  1`  for all elements in the array.
 
 [`log1p`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.log1p.html#numpy.log1p "numpy.log1p")(x, /[, out, where, casting, order, …])
@@ -108,27 +91,21 @@ Calculate  `exp(x)  -  1`  for all elements in the array.
 Return the natural logarithm of one plus the input array, element-wise.
 
 [`sqrt`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.sqrt.html#numpy.sqrt "numpy.sqrt")(x, /[, out, where, casting, order, …])
-
 Return the non-negative square-root of an array, element-wise.
 
 [`square`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.square.html#numpy.square "numpy.square")(x, /[, out, where, casting, order, …])
-
 Return the element-wise square of the input.
 
 [`cbrt`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.cbrt.html#numpy.cbrt "numpy.cbrt")(x, /[, out, where, casting, order, …])
-
 Return the cube-root of an array, element-wise.
 
 [`reciprocal`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.reciprocal.html#numpy.reciprocal "numpy.reciprocal")(x, /[, out, where, casting, …])
-
 Return the reciprocal of the argument, element-wise.
 
 [`gcd`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.gcd.html#numpy.gcd "numpy.gcd")(x1, x2, /[, out, where, casting, order, …])
-
 Returns the greatest common divisor of  `|x1|`  and  `|x2|`
 
 [`lcm`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.lcm.html#numpy.lcm "numpy.lcm")(x1, x2, /[, out, where, casting, order, …])
-
 Returns the lowest common multiple of  `|x1|`  and  `|x2|`
 
 Tip
@@ -140,39 +117,30 @@ The optional output arguments can be used to help you save memory for large calc
 All trigonometric functions use radians when an angle is called for. The ratio of degrees to radians is  ![180^{\circ}/\pi.](https://docs.scipy.org/doc/numpy/_images/math/cb6057b10a288dd8a2d8e534202e3b19f9f683fa.svg)
 
 [`sin`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.sin.html#numpy.sin "numpy.sin")(x, /[, out, where, casting, order, …])
-
 Trigonometric sine, element-wise.
 
 [`cos`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.cos.html#numpy.cos "numpy.cos")(x, /[, out, where, casting, order, …])
-
 Cosine element-wise.
 
 [`tan`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.tan.html#numpy.tan "numpy.tan")(x, /[, out, where, casting, order, …])
-
 Compute tangent element-wise.
 
 [`arcsin`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.arcsin.html#numpy.arcsin "numpy.arcsin")(x, /[, out, where, casting, order, …])
-
 Inverse sine, element-wise.
 
 [`arccos`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.arccos.html#numpy.arccos "numpy.arccos")(x, /[, out, where, casting, order, …])
-
 Trigonometric inverse cosine, element-wise.
 
 [`arctan`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.arctan.html#numpy.arctan "numpy.arctan")(x, /[, out, where, casting, order, …])
-
 Trigonometric inverse tangent, element-wise.
 
 [`arctan2`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.arctan2.html#numpy.arctan2 "numpy.arctan2")(x1, x2, /[, out, where, casting, …])
-
 Element-wise arc tangent of  `x1/x2`  choosing the quadrant correctly.
 
 [`hypot`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.hypot.html#numpy.hypot "numpy.hypot")(x1, x2, /[, out, where, casting, …])
-
 Given the “legs” of a right triangle, return its hypotenuse.
 
 [`sinh`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.sinh.html#numpy.sinh "numpy.sinh")(x, /[, out, where, casting, order, …])
-
 Hyperbolic sine, element-wise.
 
 [`cosh`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.cosh.html#numpy.cosh "numpy.cosh")(x, /[, out, where, casting, order, …])
@@ -403,7 +371,7 @@ Return the truncated value of the input, element-wise.
 
 #### Quick search
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjU4OTU0NCw2MTc3ODM2NjAsMTMxOT
+eyJoaXN0b3J5IjpbMTA2MDAzNDcwMCw2MTc3ODM2NjAsMTMxOT
 QxMzk3OCwtMjA5NTI2MTczMywtMTM2NzM4NzM5OSwtNDI0NDU1
 MTk3XX0=
 -->
