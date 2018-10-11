@@ -23,16 +23,16 @@ The process steps (nodes) can be inspected and evaluated to check its logic, out
 
 ## Input-Output User Interfaces
 Any step in the process could be used as an Input/Output module. Nodes and Indexes are the building blocks of user interfaces.
-Menus for navigating apps can beApps can be shared between partners or even to the general public.
+Menus for navigating apps can be easily defined. Apps can be shared between partners or even to the general public through shareable links.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTA0MDA4Myw3Njk2NDAyOTAsMTE4ND
-AzMjU3NiwyMDgzNjM3MTU3LDU4NzM4MTkwNSwtMTk3NTE3NjMw
-MywtNjI5MjM3ODA2LC05NDgxNTc5MTQsOTI4NzA4MDYwLC0zNT
-ExNzQ2OTIsMTY2MjYwMjE5MCw4ODM3ODMzNDQsMTc3NTA5NDUy
-NCw4MTM4NDM4NjQsLTE2ODQxMzIwODksLTE1NjU5ODIxMjAsLT
-EzNzUzNTU0Niw4MDIwMTIyMjgsMjA5MTY5MTY2MCwtNTM3ODY1
-NF19
+eyJoaXN0b3J5IjpbLTcxODY5MjA0LDc2OTY0MDI5MCwxMTg0MD
+MyNTc2LDIwODM2MzcxNTcsNTg3MzgxOTA1LC0xOTc1MTc2MzAz
+LC02MjkyMzc4MDYsLTk0ODE1NzkxNCw5Mjg3MDgwNjAsLTM1MT
+E3NDY5MiwxNjYyNjAyMTkwLDg4Mzc4MzM0NCwxNzc1MDk0NTI0
+LDgxMzg0Mzg2NCwtMTY4NDEzMjA4OSwtMTU2NTk4MjEyMCwtMT
+M3NTM1NTQ2LDgwMjAxMjIyOCwyMDkxNjkxNjYwLC01Mzc4NjU0
+XX0=
 -->
