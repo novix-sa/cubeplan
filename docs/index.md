@@ -25,14 +25,12 @@ The process steps (nodes) can be inspected and evaluated to check its logic, out
 Any step in the process could be used as an Input/Output module. Nodes and Indexes are the building blocks of user interfaces.
 Menus for navigating apps can be easily defined. Apps can be shared between partners or even to the general public through shareable links.
 
-![enter image description here](http://cubepy.org/files/Pyplan/blank%20home.png)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4MjA5MjgyLC03MTg2OTIwNCw3Njk2ND
-AyOTAsMTE4NDAzMjU3NiwyMDgzNjM3MTU3LDU4NzM4MTkwNSwt
-MTk3NTE3NjMwMywtNjI5MjM3ODA2LC05NDgxNTc5MTQsOTI4Nz
-A4MDYwLC0zNTExNzQ2OTIsMTY2MjYwMjE5MCw4ODM3ODMzNDQs
-MTc3NTA5NDUyNCw4MTM4NDM4NjQsLTE2ODQxMzIwODksLTE1Nj
-U5ODIxMjAsLTEzNzUzNTU0Niw4MDIwMTIyMjgsMjA5MTY5MTY2
-MF19
+eyJoaXN0b3J5IjpbLTM5NjE5MDcwNCw2MzgyMDkyODIsLTcxOD
+Y5MjA0LDc2OTY0MDI5MCwxMTg0MDMyNTc2LDIwODM2MzcxNTcs
+NTg3MzgxOTA1LC0xOTc1MTc2MzAzLC02MjkyMzc4MDYsLTk0OD
+E1NzkxNCw5Mjg3MDgwNjAsLTM1MTE3NDY5MiwxNjYyNjAyMTkw
+LDg4Mzc4MzM0NCwxNzc1MDk0NTI0LDgxMzg0Mzg2NCwtMTY4ND
+EzMjA4OSwtMTU2NTk4MjEyMCwtMTM3NTM1NTQ2LDgwMjAxMjIy
+OF19
 -->
