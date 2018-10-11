@@ -7,7 +7,7 @@ Apps are developed through a drag and drop user interface that allows creating t
 In general terms, Pyplan is an integrated development environment (IDE) of Python data analytics and data modeling Apps.
 
 ## Data Analysis and Modeling
-The calculation logic is structured through influence diagrams, a visual representation of the calculation logic that brings transparency to the app data processes.
+The calculation logic is structured through influence diagrams, a visual representation of the process logic that brings transparency to the app data processes.
 The calculation logic is created using the most popular Python libraries like:
 
  - Pandas for working with database like information 
@@ -35,7 +35,7 @@ It is designed as a server-client application intended for supporting Business A
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTEyNjI4OCw1ODczODE5MDUsLTE5Nz
+eyJoaXN0b3J5IjpbMTM5OTg4NTQ4Miw1ODczODE5MDUsLTE5Nz
 UxNzYzMDMsLTYyOTIzNzgwNiwtOTQ4MTU3OTE0LDkyODcwODA2
 MCwtMzUxMTc0NjkyLDE2NjI2MDIxOTAsODgzNzgzMzQ0LDE3Nz
 UwOTQ1MjQsODEzODQzODY0LC0xNjg0MTMyMDg5LC0xNTY1OTgy
