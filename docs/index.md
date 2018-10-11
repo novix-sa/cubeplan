@@ -21,25 +21,17 @@ The process steps (nodes) can be inspected and evaluated to check its logic, out
 Double clicking the node, it is evaluated, showing it result as a table or graph for further analysis.
 
 ## Input-Output User Interfaces
-Any step in the process could be used as an Input/Output module. Nodes and Index are the the building blocks of user interfaces.
-
+Any step in the process could be used as an Input/Output module. Nodes and Index are the building blocks of user interfaces.
 
 Apps are later shared between partners or even to the general public.
 
 
-**Pyplan.com**
-Pyplan is the unique platform for developing Business Intelligence, Data Analytics and Corporate Performance Management (CPM) based on the *lingua franca* of data science: Python
-It is a graphical tool intended for Business Analysts that can create interactive analytical apps
-
-It is designed as a server-client application intended for supporting Business Analytics, Budgeting, Integrated Business Planning, Strategic Planning and Business Control at corporate level.
-
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE1MDI3MzIsNTg3MzgxOTA1LC0xOT
-c1MTc2MzAzLC02MjkyMzc4MDYsLTk0ODE1NzkxNCw5Mjg3MDgw
-NjAsLTM1MTE3NDY5MiwxNjYyNjAyMTkwLDg4Mzc4MzM0NCwxNz
-c1MDk0NTI0LDgxMzg0Mzg2NCwtMTY4NDEzMjA4OSwtMTU2NTk4
-MjEyMCwtMTM3NTM1NTQ2LDgwMjAxMjIyOCwyMDkxNjkxNjYwLC
-01Mzc4NjU0XX0=
+eyJoaXN0b3J5IjpbMjA4MzYzNzE1Nyw1ODczODE5MDUsLTE5Nz
+UxNzYzMDMsLTYyOTIzNzgwNiwtOTQ4MTU3OTE0LDkyODcwODA2
+MCwtMzUxMTc0NjkyLDE2NjI2MDIxOTAsODgzNzgzMzQ0LDE3Nz
+UwOTQ1MjQsODEzODQzODY0LC0xNjg0MTMyMDg5LC0xNTY1OTgy
+MTIwLC0xMzc1MzU1NDYsODAyMDEyMjI4LDIwOTE2OTE2NjAsLT
+UzNzg2NTRdfQ==
 -->
