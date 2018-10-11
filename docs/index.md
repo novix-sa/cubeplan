@@ -19,17 +19,16 @@ Pyplan also includes many helpers functions for making easy model creation and o
 Here you can find the complete list and description of Pyplan specific functions. 
 
 Any other Python library can also be used in Pyplan as soon as the Administrator of the system authorize its installing on the server.
-The process steps (nodes) can be inspected and evaluated to check its logic, outputs and performance (Ctrl E).
-Double clicking the node, it is evaluated, showing it result as a table or graph for further analysis.
+The process steps (nodes) can be inspected and evaluated to check its logic, outputs and performance (Ctrl E). Double clicking the node, it is evaluated, showing it result as a table or graph for further analysis.
 
 ## Input-Output User Interfaces
-Any step in the process could be used as an Input/Output module. Nodes and Index are the building blocks of user interfaces.
-Apps can be shared between partners or even to the general public.
+Any step in the process could be used as an Input/Output module. Nodes and Indexes are the building blocks of user interfaces.
+Menus for navigating apps can beApps can be shared between partners or even to the general public.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDg0MDk2OSw3Njk2NDAyOTAsMTE4ND
+eyJoaXN0b3J5IjpbMTA2OTA0MDA4Myw3Njk2NDAyOTAsMTE4ND
 AzMjU3NiwyMDgzNjM3MTU3LDU4NzM4MTkwNSwtMTk3NTE3NjMw
 MywtNjI5MjM3ODA2LC05NDgxNTc5MTQsOTI4NzA4MDYwLC0zNT
 ExNzQ2OTIsMTY2MjYwMjE5MCw4ODM3ODMzNDQsMTc3NTA5NDUy
