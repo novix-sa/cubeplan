@@ -2,7 +2,7 @@
 You can use any of numpy’s or scipy’s many [ufunc](http://docs.scipy.org/doc/numpy/reference/ufuncs.html) functions directly on a DataArray:
 There are currently more than [60 universal functions](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#math-operations) defined in [`numpy`](https://docs.scipy.org/doc/numpy/reference/index.html#module-numpy "numpy") on one or more types, covering a wide variety of operations.
 
-### Math operations[](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#math-operations "Permalink to this headline")
+## **Math operations**[](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#math-operations "Permalink to this headline")
 
 [`add`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.add.html#numpy.add "numpy.add")(x1, x2, /[, out, where, casting, order, …])
 Add arguments element-wise.
@@ -300,7 +300,7 @@ Return the ceiling of the input, element-wise.
 [`trunc`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.trunc.html#numpy.trunc "numpy.trunc")(x, /[, out, where, casting, order, …])
 Return the truncated value of the input, element-wise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUzNDU4MTgsNjE3NzgzNjYwLDEzMT
-k0MTM5NzgsLTIwOTUyNjE3MzMsLTEzNjczODczOTksLTQyNDQ1
-NTE5N119
+eyJoaXN0b3J5IjpbOTcyNTMzMDU5LDYxNzc4MzY2MCwxMzE5ND
+EzOTc4LC0yMDk1MjYxNzMzLC0xMzY3Mzg3Mzk5LC00MjQ0NTUx
+OTddfQ==
 -->
