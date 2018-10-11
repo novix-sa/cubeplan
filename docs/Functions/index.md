@@ -1,6 +1,7 @@
 # Function List
 You can use any of numpy’s or scipy’s many [ufunc](http://docs.scipy.org/doc/numpy/reference/ufuncs.html) functions directly on a DataArray:
 There are currently more than [60 universal functions](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#math-operations) defined in [`numpy`](https://docs.scipy.org/doc/numpy/reference/index.html#module-numpy "numpy") on one or more types, covering a wide variety of operations.
+There is also a list of Pyplan defined functions
 
 ## Math operations
 [`add`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.add.html#numpy.add "numpy.add")(x1, x2, /[, out, where, casting, order, …])
@@ -297,7 +298,7 @@ Return the ceiling of the input, element-wise.
 Return the truncated value of the input, element-wise.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjI2ODExMSw2MTc3ODM2NjAsMTMxOT
-QxMzk3OCwtMjA5NTI2MTczMywtMTM2NzM4NzM5OSwtNDI0NDU1
-MTk3XX0=
+eyJoaXN0b3J5IjpbLTExMjIxNjM2LDEzMTIyNjgxMTEsNjE3Nz
+gzNjYwLDEzMTk0MTM5NzgsLTIwOTUyNjE3MzMsLTEzNjczODcz
+OTksLTQyNDQ1NTE5N119
 -->
