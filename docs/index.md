@@ -22,16 +22,15 @@ Double clicking the node, it is evaluated, showing it result as a table or graph
 
 ## Input-Output User Interfaces
 Any step in the process could be used as an Input/Output module. Nodes and Index are the building blocks of user interfaces.
-
-Apps are later shared between partners or even to the general public.
+Apps can be shared between partners or even to the general public.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzYzNzE1Nyw1ODczODE5MDUsLTE5Nz
-UxNzYzMDMsLTYyOTIzNzgwNiwtOTQ4MTU3OTE0LDkyODcwODA2
-MCwtMzUxMTc0NjkyLDE2NjI2MDIxOTAsODgzNzgzMzQ0LDE3Nz
-UwOTQ1MjQsODEzODQzODY0LC0xNjg0MTMyMDg5LC0xNTY1OTgy
-MTIwLC0xMzc1MzU1NDYsODAyMDEyMjI4LDIwOTE2OTE2NjAsLT
-UzNzg2NTRdfQ==
+eyJoaXN0b3J5IjpbMTE4NDAzMjU3NiwyMDgzNjM3MTU3LDU4Nz
+M4MTkwNSwtMTk3NTE3NjMwMywtNjI5MjM3ODA2LC05NDgxNTc5
+MTQsOTI4NzA4MDYwLC0zNTExNzQ2OTIsMTY2MjYwMjE5MCw4OD
+M3ODMzNDQsMTc3NTA5NDUyNCw4MTM4NDM4NjQsLTE2ODQxMzIw
+ODksLTE1NjU5ODIxMjAsLTEzNzUzNTU0Niw4MDIwMTIyMjgsMj
+A5MTY5MTY2MCwtNTM3ODY1NF19
 -->
