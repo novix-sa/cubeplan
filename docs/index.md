@@ -13,8 +13,9 @@ The calculation steps are defined using the most popular Python libraries like:
 
  - Pandas for working with database like information 
  - Xarrays for handling multidimensional labeled arrays 
- - and Numpy for powerful working with N-dimensional array (unnamed)
-It also includes many helpers functions for easy of modelling tasks, this functions are called using the pp. prefix.
+ - and Numpy for powerful N-dimensional array (unnamed) operations
+
+Pyplan also includes many helpers functions for making easy modelling. , this functions are called using the pp. prefix.
 
 Any other Python library can be also used as the Administrator of the system authorize its installing on the server.
 The process steps (nodes) can be inspected and evaluated to check its logic, outputs and performance (Ctrl E).
@@ -27,10 +28,10 @@ Apps can be shared between partners or even to the general public.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDAzMjU3NiwyMDgzNjM3MTU3LDU4Nz
-M4MTkwNSwtMTk3NTE3NjMwMywtNjI5MjM3ODA2LC05NDgxNTc5
-MTQsOTI4NzA4MDYwLC0zNTExNzQ2OTIsMTY2MjYwMjE5MCw4OD
-M3ODMzNDQsMTc3NTA5NDUyNCw4MTM4NDM4NjQsLTE2ODQxMzIw
-ODksLTE1NjU5ODIxMjAsLTEzNzUzNTU0Niw4MDIwMTIyMjgsMj
-A5MTY5MTY2MCwtNTM3ODY1NF19
+eyJoaXN0b3J5IjpbMTc2NjQwNTMzMCwxMTg0MDMyNTc2LDIwOD
+M2MzcxNTcsNTg3MzgxOTA1LC0xOTc1MTc2MzAzLC02MjkyMzc4
+MDYsLTk0ODE1NzkxNCw5Mjg3MDgwNjAsLTM1MTE3NDY5MiwxNj
+YyNjAyMTkwLDg4Mzc4MzM0NCwxNzc1MDk0NTI0LDgxMzg0Mzg2
+NCwtMTY4NDEzMjA4OSwtMTU2NTk4MjEyMCwtMTM3NTM1NTQ2LD
+gwMjAxMjIyOCwyMDkxNjkxNjYwLC01Mzc4NjU0XX0=
 -->
