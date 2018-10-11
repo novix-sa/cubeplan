@@ -5,6 +5,9 @@ This section presents the basic concepts such as: 1) log in, log out and edit pr
 -   [Summary](/Pyplan/1-Introduction/Intro)
 -   [Sign up](/Pyplan/1-Introduction/Sign%20up)
 
+![Pyplan Homepage](http://cubepy.org/files/Pyplan/blank%20home.png)
+
+
 # File Manager  
 In this section, you will learn how to manage different files on which the model is based. You can duplicate folders, create new ones, rename existing files, move a file to a different location, compress and unzip a file, upload new files or download existing ones.
 
@@ -72,5 +75,5 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM2OTIzMzhdfQ==
+eyJoaXN0b3J5IjpbLTMyMDM2MTY2M119
 -->
