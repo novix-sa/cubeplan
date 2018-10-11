@@ -1,10 +1,32 @@
 
 # Introduction
-In the following sections you will learn how to use the Pyplan User Guide, the system requirements and the steps to follow in order to use Pyplan.
+In general terms, Pyplan is an integrated development environment (IDE) of Python data analytics and data modeling Apps.
+More specifically Pyplan is a platform
+Apps are developed through a drag and drop user interface that allows creating the calculation logic and the Input/Output user interface.
+## Data Analysis and Modeling
+The calculation logic is structured through influence diagrams, a visual representation of the calculation logic that brings transparency to the app data processes.
+The calculation logic is created using the most popular Python libraries like:
 
--   [User Requirements ](Pyplan/1-Introduction/Intro/#User-Requirements)
--   [How to Access to Pyplan](Pyplan/1-Introduction/Intro/#how-to-access-pyplan)
--   [How to Use this Manual](Pyplan/1-Introduction/Intro/#how-to-use-the-knowledge-base)
+ - Pandas for working with database like information 
+ - Xarrays for handling multidimensional labeled arrays 
+ - and Numpy for powerful working with N-dimensional array (unnamed)
+
+Any other Python library can be used (imported) as the Administrator of the system authorize its installing on the server.
+The process steps (nodes) can be inspected and evaluated to check its logic, outputs and performance (Ctrl E).
+Double clicking the node, it is evaluated, showing it result as a table or graph for further analysis.
+
+## Input-Output User Interfaces
+Any step in the process could be used as an Input/Output module. Nodes and Index are the the building blocks of user interfaces.
+
+
+Apps are later shared between partners or even to the general public.
+
+
+**Pyplan.com**
+Pyplan is the unique platform for developing Business Intelligence, Data Analytics and Corporate Performance Management (CPM) based on the *lingua franca* of data science: Python
+It is a graphical tool intended for Business Analysts that can create interactive analytical apps
+
+It is designed as a server-client application intended for supporting Business Analytics, Budgeting, Integrated Business Planning, Strategic Planning and Business Control at corporate level.
 
 # First steps in Pyplan  
 This section presents the basic concepts such as: 1) log in, log out and edit profile, 2) main window, property bar and widgets.
@@ -79,9 +101,10 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3MzgxOTA1LC0xOTc1MTc2MzAzLC02Mj
-kyMzc4MDYsLTk0ODE1NzkxNCw5Mjg3MDgwNjAsLTM1MTE3NDY5
-MiwxNjYyNjAyMTkwLDg4Mzc4MzM0NCwxNzc1MDk0NTI0LDgxMz
-g0Mzg2NCwtMTY4NDEzMjA4OSwtMTU2NTk4MjEyMCwtMTM3NTM1
-NTQ2LDgwMjAxMjIyOCwyMDkxNjkxNjYwLC01Mzc4NjU0XX0=
+eyJoaXN0b3J5IjpbMTQzMzg3MzYsNTg3MzgxOTA1LC0xOTc1MT
+c2MzAzLC02MjkyMzc4MDYsLTk0ODE1NzkxNCw5Mjg3MDgwNjAs
+LTM1MTE3NDY5MiwxNjYyNjAyMTkwLDg4Mzc4MzM0NCwxNzc1MD
+k0NTI0LDgxMzg0Mzg2NCwtMTY4NDEzMjA4OSwtMTU2NTk4MjEy
+MCwtMTM3NTM1NTQ2LDgwMjAxMjIyOCwyMDkxNjkxNjYwLC01Mz
+c4NjU0XX0=
 -->
