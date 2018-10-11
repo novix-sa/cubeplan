@@ -38,14 +38,9 @@ Numerical positive, element-wise.
 First array elements raised to powers from second array, element-wise.
 |Function|Description|
 |--|--|
-[`remainder`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.remainder.html#numpy.remainder "numpy.remainder")(x1, x2, /[, out, where, casting, …])
-Return element-wise remainder of division.
-
-[`mod`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.mod.html#numpy.mod "numpy.mod")(x1, x2, /[, out, where, casting, order, …])
-Return element-wise remainder of division.
-
-[`fmod`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.fmod.html#numpy.fmod "numpy.fmod")(x1, x2, /[, out, where, casting, …])
-Return the element-wise remainder of division.
+|[`remainder`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.remainder.html#numpy.remainder "numpy.remainder")(x1, x2, /[, out, where, casting, …])|Return element-wise remainder of division.|
+|[`mod`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.mod.html#numpy.mod "numpy.mod")(x1, x2, /[, out, where, casting, order, …])|Return element-wise remainder of division.|
+|[`fmod`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.fmod.html#numpy.fmod "numpy.fmod")(x1, x2, /[, out, where, casting, …])|Return the element-wise remainder of division.|
 
 [`divmod`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.divmod.html#numpy.divmod "numpy.divmod")(x1, x2[, out1, out2], / [[, out, …])
 Return element-wise quotient and remainder simultaneously.
@@ -299,7 +294,7 @@ Return the ceiling of the input, element-wise.
 Return the truncated value of the input, element-wise.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxODI5MzM0LDEzMTIyNjgxMTEsNjE3Nz
-gzNjYwLDEzMTk0MTM5NzgsLTIwOTUyNjE3MzMsLTEzNjczODcz
-OTksLTQyNDQ1NTE5N119
+eyJoaXN0b3J5IjpbMTkxODM3OTE4NCwxMzEyMjY4MTExLDYxNz
+c4MzY2MCwxMzE5NDEzOTc4LC0yMDk1MjYxNzMzLC0xMzY3Mzg3
+Mzk5LC00MjQ0NTUxOTddfQ==
 -->
