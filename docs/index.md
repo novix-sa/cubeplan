@@ -1,7 +1,7 @@
 
 # Introduction
 In general terms, Pyplan is an integrated development environment (IDE) of Python data analytics and data modeling Apps.
-More specifically Pyplan is a platform for developing Advanced Data Analytics and Corporate Performance Management systems. 
+Pyplan also includes several features that includesIt is mostly used as a platform for developing Advanced Data Analytics and Corporate Performance Management systems. 
 Apps are developed through a drag and drop user interface that allows creating the calculation logic and the Input/Output user interface.
 ## Data Analysis and Modeling
 The calculation logic is structured through influence diagrams, a visual representation of the calculation logic that brings transparency to the app data processes.
@@ -101,10 +101,10 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2MDY3MzQ3LDU4NzM4MTkwNSwtMTk3NT
-E3NjMwMywtNjI5MjM3ODA2LC05NDgxNTc5MTQsOTI4NzA4MDYw
-LC0zNTExNzQ2OTIsMTY2MjYwMjE5MCw4ODM3ODMzNDQsMTc3NT
-A5NDUyNCw4MTM4NDM4NjQsLTE2ODQxMzIwODksLTE1NjU5ODIx
-MjAsLTEzNzUzNTU0Niw4MDIwMTIyMjgsMjA5MTY5MTY2MCwtNT
-M3ODY1NF19
+eyJoaXN0b3J5IjpbMTMyNjkyOTQ4Myw1ODczODE5MDUsLTE5Nz
+UxNzYzMDMsLTYyOTIzNzgwNiwtOTQ4MTU3OTE0LDkyODcwODA2
+MCwtMzUxMTc0NjkyLDE2NjI2MDIxOTAsODgzNzgzMzQ0LDE3Nz
+UwOTQ1MjQsODEzODQzODY0LC0xNjg0MTMyMDg5LC0xNTY1OTgy
+MTIwLC0xMzc1MzU1NDYsODAyMDEyMjI4LDIwOTE2OTE2NjAsLT
+UzNzg2NTRdfQ==
 -->
