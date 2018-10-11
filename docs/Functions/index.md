@@ -2,8 +2,7 @@
 You can use any of numpy’s or scipy’s many [ufunc](http://docs.scipy.org/doc/numpy/reference/ufuncs.html) functions directly on a DataArray:
 There are currently more than [60 universal functions](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#math-operations) defined in [`numpy`](https://docs.scipy.org/doc/numpy/reference/index.html#module-numpy "numpy") on one or more types, covering a wide variety of operations.
 
-## **Math operations**[](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#math-operations "Permalink to this headline")
-
+## Math operations
 [`add`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.add.html#numpy.add "numpy.add")(x1, x2, /[, out, where, casting, order, …])
 Add arguments element-wise.
 
@@ -112,8 +111,7 @@ Tip
 
 The optional output arguments can be used to help you save memory for large calculations. If your arrays are large, complicated expressions can take longer than absolutely necessary due to the creation and (later) destruction of temporary calculation spaces. For example, the expression  `G  =  a  *  b  +  c`  is equivalent to`t1  =  A  *  B;  G  =  T1  +  C;  del  t1`. It will be more quickly executed as  `G  =  A  *  B;  add(G,  C,  G)`  which is the same as  `G  =  A  *  B;  G  +=  C`.
 
-### Trigonometric functions[](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#trigonometric-functions "Permalink to this headline")
-
+## Trigonometric functions
 All trigonometric functions use radians when an angle is called for. The ratio of degrees to radians is  ![180^{\circ}/\pi.](https://docs.scipy.org/doc/numpy/_images/math/cb6057b10a288dd8a2d8e534202e3b19f9f683fa.svg)
 
 [`sin`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.sin.html#numpy.sin "numpy.sin")(x, /[, out, where, casting, order, …])
@@ -165,8 +163,7 @@ Convert angles from degrees to radians.
 [`rad2deg`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.rad2deg.html#numpy.rad2deg "numpy.rad2deg")(x, /[, out, where, casting, order, …])
 Convert angles from radians to degrees.
 
-### Bit-twiddling functions[](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#bit-twiddling-functions "Permalink to this headline")
-
+## Bit-twiddling functions
 These function all require integer arguments and they manipulate the bit-pattern of those arguments.
 
 [`bitwise_and`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.bitwise_and.html#numpy.bitwise_and "numpy.bitwise_and")(x1, x2, /[, out, where, …])
@@ -299,8 +296,9 @@ Return the ceiling of the input, element-wise.
 
 [`trunc`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.trunc.html#numpy.trunc "numpy.trunc")(x, /[, out, where, casting, order, …])
 Return the truncated value of the input, element-wise.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyNTMzMDU5LDYxNzc4MzY2MCwxMzE5ND
-EzOTc4LC0yMDk1MjYxNzMzLC0xMzY3Mzg3Mzk5LC00MjQ0NTUx
-OTddfQ==
+eyJoaXN0b3J5IjpbMTU2MTA0ODQyMyw2MTc3ODM2NjAsMTMxOT
+QxMzk3OCwtMjA5NTI2MTczMywtMTM2NzM4NzM5OSwtNDI0NDU1
+MTk3XX0=
 -->
