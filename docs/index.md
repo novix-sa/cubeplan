@@ -10,7 +10,7 @@ The calculation logic is created using the most popular Python libraries like:
  - Pandas for working with database like information 
  - Xarrays for handling multidimensional labeled arrays 
  - and Numpy for powerful working with N-dimensional array (unnamed)
-It also includes many helpers funci
+It also includes many helpers functions for easy of modelling tasks, this functions are called using the pp. prefix.
 
 Any other Python library can be also used as the Administrator of the system authorize its installing on the server.
 The process steps (nodes) can be inspected and evaluated to check its logic, outputs and performance (Ctrl E).
@@ -102,10 +102,10 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjI0OTQ0Nyw1ODczODE5MDUsLTE5Nz
-UxNzYzMDMsLTYyOTIzNzgwNiwtOTQ4MTU3OTE0LDkyODcwODA2
-MCwtMzUxMTc0NjkyLDE2NjI2MDIxOTAsODgzNzgzMzQ0LDE3Nz
-UwOTQ1MjQsODEzODQzODY0LC0xNjg0MTMyMDg5LC0xNTY1OTgy
-MTIwLC0xMzc1MzU1NDYsODAyMDEyMjI4LDIwOTE2OTE2NjAsLT
-UzNzg2NTRdfQ==
+eyJoaXN0b3J5IjpbLTE2MzYwMjU0MjksNTg3MzgxOTA1LC0xOT
+c1MTc2MzAzLC02MjkyMzc4MDYsLTk0ODE1NzkxNCw5Mjg3MDgw
+NjAsLTM1MTE3NDY5MiwxNjYyNjAyMTkwLDg4Mzc4MzM0NCwxNz
+c1MDk0NTI0LDgxMzg0Mzg2NCwtMTY4NDEzMjA4OSwtMTU2NTk4
+MjEyMCwtMTM3NTM1NTQ2LDgwMjAxMjIyOCwyMDkxNjkxNjYwLC
+01Mzc4NjU0XX0=
 -->
