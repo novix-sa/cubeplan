@@ -282,60 +282,25 @@ Return the distance between x and the nearest adjacent number.
 Return the fractional and integral parts of an array, element-wise.
 
 [`ldexp`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.ldexp.html#numpy.ldexp "numpy.ldexp")(x1, x2, /[, out, where, casting, …])
-
 Returns x1 * 2**x2, element-wise.
 
 [`frexp`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.frexp.html#numpy.frexp "numpy.frexp")(x[, out1, out2], / [[, out, where, …])
-
 Decompose the elements of x into mantissa and twos exponent.
 
 [`fmod`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.fmod.html#numpy.fmod "numpy.fmod")(x1, x2, /[, out, where, casting, …])
-
 Return the element-wise remainder of division.
 
 [`floor`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.floor.html#numpy.floor "numpy.floor")(x, /[, out, where, casting, order, …])
 
 Return the floor of the input, element-wise.
-
 [`ceil`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.ceil.html#numpy.ceil "numpy.ceil")(x, /[, out, where, casting, order, …])
 
 Return the ceiling of the input, element-wise.
 
 [`trunc`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.trunc.html#numpy.trunc "numpy.trunc")(x, /[, out, where, casting, order, …])
-
 Return the truncated value of the input, element-wise.
-
-### [Table Of Contents](https://docs.scipy.org/doc/numpy/contents.html)
-
--   [Universal functions (`ufunc`)](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#)
-    -   [Broadcasting](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#broadcasting)
-    -   [Output type determination](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#output-type-determination)
-    -   [Use of internal buffers](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#use-of-internal-buffers)
-    -   [Error handling](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#error-handling)
-    -   [Casting Rules](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#casting-rules)
-    -   [Overriding Ufunc behavior](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#overriding-ufunc-behavior)
-    -   [`ufunc`](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#ufunc)
-        -   [Optional keyword arguments](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#optional-keyword-arguments)
-        -   [Attributes](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#attributes)
-        -   [Methods](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#methods)
-    -   [Available ufuncs](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#available-ufuncs)
-        -   [Math operations](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#math-operations)
-        -   [Trigonometric functions](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#trigonometric-functions)
-        -   [Bit-twiddling functions](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#bit-twiddling-functions)
-        -   [Comparison functions](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#comparison-functions)
-        -   [Floating functions](https://docs.scipy.org/doc/numpy/reference/ufuncs.html#floating-functions)
-
-#### Previous topic
-
-[Constants](https://docs.scipy.org/doc/numpy/reference/constants.html "previous chapter")
-
-#### Next topic
-
-[numpy.setbufsize](https://docs.scipy.org/doc/numpy/reference/generated/numpy.setbufsize.html "next chapter")
-
-#### Quick search
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODM5NDc5Miw2MTc3ODM2NjAsMTMxOT
-QxMzk3OCwtMjA5NTI2MTczMywtMTM2NzM4NzM5OSwtNDI0NDU1
-MTk3XX0=
+eyJoaXN0b3J5IjpbLTExNDUzNDU4MTgsNjE3NzgzNjYwLDEzMT
+k0MTM5NzgsLTIwOTUyNjE3MzMsLTEzNjczODczOTksLTQyNDQ1
+NTE5N119
 -->
