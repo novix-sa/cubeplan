@@ -23,16 +23,17 @@ Any process step (nodes) can be run (Ctrl E) and its result (console output) be 
 Double clicking the node (or Ctrl R), it is evaluated, showing it result as a table or graph for data analysis.
 
 ## Input-Output User Interfaces
-App screens or interfaces are created draging and droping 
+App screens or interfaces are created draging and droping indexes or nodes on to a canvas.
+Indexes are transformed into select 
 Any step in the process could be used as an Input/Output module. Nodes and Indexes are the building blocks of user interfaces.
 Menus for navigating apps can be easily defined. Apps can be shared between partners or even to the general public through shareable links.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3NDI5MSwtMTgwNjA2OTAwOCwtMzk2MT
-kwNzA0LDYzODIwOTI4MiwtNzE4NjkyMDQsNzY5NjQwMjkwLDEx
-ODQwMzI1NzYsMjA4MzYzNzE1Nyw1ODczODE5MDUsLTE5NzUxNz
-YzMDMsLTYyOTIzNzgwNiwtOTQ4MTU3OTE0LDkyODcwODA2MCwt
-MzUxMTc0NjkyLDE2NjI2MDIxOTAsODgzNzgzMzQ0LDE3NzUwOT
-Q1MjQsODEzODQzODY0LC0xNjg0MTMyMDg5LC0xNTY1OTgyMTIw
-XX0=
+eyJoaXN0b3J5IjpbLTU0NDg3MjY1NSwtMTgwNjA2OTAwOCwtMz
+k2MTkwNzA0LDYzODIwOTI4MiwtNzE4NjkyMDQsNzY5NjQwMjkw
+LDExODQwMzI1NzYsMjA4MzYzNzE1Nyw1ODczODE5MDUsLTE5Nz
+UxNzYzMDMsLTYyOTIzNzgwNiwtOTQ4MTU3OTE0LDkyODcwODA2
+MCwtMzUxMTc0NjkyLDE2NjI2MDIxOTAsODgzNzgzMzQ0LDE3Nz
+UwOTQ1MjQsODEzODQzODY0LC0xNjg0MTMyMDg5LC0xNTY1OTgy
+MTIwXX0=
 -->
