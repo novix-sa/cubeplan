@@ -3,7 +3,10 @@ dataArray(self,coords, values=None,dtype=None):
 
 
 **index( list of values ):**        Create a coord object from list of values
-pp.index(['Item 1', 'Item 2', 'Item 3'])        
+
+    pp.index(['Item 1', 'Item 2', 'Item 3'])
+
+        
         
 
 
@@ -257,5 +260,5 @@ pp.index(['Item 1', 'Item 2', 'Item 3'])
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDYxMzEyM119
+eyJoaXN0b3J5IjpbLTM2MjQwODQ0MV19
 -->
