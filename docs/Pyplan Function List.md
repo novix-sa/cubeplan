@@ -2,7 +2,7 @@ dataArray(self,coords, values=None,dtype=None):
         Create a dataArray  
 
 
-    index(self,values):
+**index(self,values):**
         Create a coord object from list of values
             TODO: samples        
         
@@ -258,5 +258,5 @@ dataArray(self,coords, values=None,dtype=None):
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ1NzE1NDldfQ==
+eyJoaXN0b3J5IjpbMTU2MTM0OTE1NV19
 -->
