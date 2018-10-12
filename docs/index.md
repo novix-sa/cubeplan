@@ -24,12 +24,13 @@ Double clicking the node (or Ctrl R), it is evaluated, showing it result as a ta
 
 ## Input-Output User Interfaces
 App screens or interfaces are created draging and droping indexes or nodes on to a canvas.
-Indexes are transformed into select 
+Indexes are transformed into selecting tools (drop down or list). They automatically act as a filter for the equivalent dimension of any visualized array.
+  
 Any step in the process could be used as an Input/Output module. Nodes and Indexes are the building blocks of user interfaces.
 Menus for navigating apps can be easily defined. Apps can be shared between partners or even to the general public through shareable links.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDg3MjY1NSwtMTgwNjA2OTAwOCwtMz
+eyJoaXN0b3J5IjpbLTQ3OTM5Nzc1MSwtMTgwNjA2OTAwOCwtMz
 k2MTkwNzA0LDYzODIwOTI4MiwtNzE4NjkyMDQsNzY5NjQwMjkw
 LDExODQwMzI1NzYsMjA4MzYzNzE1Nyw1ODczODE5MDUsLTE5Nz
 UxNzYzMDMsLTYyOTIzNzgwNiwtOTQ4MTU3OTE0LDkyODcwODA2
