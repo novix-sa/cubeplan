@@ -5,9 +5,9 @@ dataArray(self,coords, values=None,dtype=None):
 **index( list of values ):**        Create a coord object from list of values
 
     pp.index(['Item 1', 'Item 2', 'Item 3'])
-|**Function** (parameters)|Description|
+|Function (*parameters*)|Description|
 |--|--|
-|[`read_table`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_table.html#pandas.read_table "pandas.read_table")(filepath_or_buffer[, sep, …])|Read general delimited file into DataFrame|
+|[`index`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_table.html#pandas.read_table "pandas.read_table")(filepath_or_buffer[, sep, …])|Read general delimited file into DataFrame|
 
         
 
@@ -262,5 +262,5 @@ dataArray(self,coords, values=None,dtype=None):
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzY1MDE2MSwtMzYyNDA4NDQxXX0=
+eyJoaXN0b3J5IjpbOTU0MDkyNTMyLC0zNjI0MDg0NDFdfQ==
 -->
