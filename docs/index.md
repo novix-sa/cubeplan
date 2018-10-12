@@ -16,21 +16,21 @@ The calculation steps are defined using the most popular Python libraries like:
  - and Numpy for powerful N-dimensional array (unnamed) operations
 
 Pyplan also includes many helpers functions for making easy model creation and object manipulation. These functions are called using the pp. prefix.
-Here you can find the complete list and description of Pyplan specific functions. 
+Here you can find the complete list and description of Pyplan specific function list. 
 
-Any other Python library can also be used in Pyplan as soon as the Administrator of the system authorize its installing on the server.
-The process steps (nodes) can be inspected and evaluated to check its logic, outputs and performance (Ctrl E). Double clicking the node, it is evaluated, showing it result as a table or graph for further analysis.
+Any other existing Python library can also be used in Pyplan as soon as the Administrator of the system authorize its installing on the server.
+Any process step  (nodes) can be inspected and evaluated to check its logic, outputs and performance (Ctrl E). Double clicking the node, it is evaluated, showing it result as a table or graph for further analysis.
 
 ## Input-Output User Interfaces
 Any step in the process could be used as an Input/Output module. Nodes and Indexes are the building blocks of user interfaces.
 Menus for navigating apps can be easily defined. Apps can be shared between partners or even to the general public through shareable links.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjE5MDcwNCw2MzgyMDkyODIsLTcxOD
-Y5MjA0LDc2OTY0MDI5MCwxMTg0MDMyNTc2LDIwODM2MzcxNTcs
-NTg3MzgxOTA1LC0xOTc1MTc2MzAzLC02MjkyMzc4MDYsLTk0OD
-E1NzkxNCw5Mjg3MDgwNjAsLTM1MTE3NDY5MiwxNjYyNjAyMTkw
-LDg4Mzc4MzM0NCwxNzc1MDk0NTI0LDgxMzg0Mzg2NCwtMTY4ND
-EzMjA4OSwtMTU2NTk4MjEyMCwtMTM3NTM1NTQ2LDgwMjAxMjIy
-OF19
+eyJoaXN0b3J5IjpbLTg5MTkxMDgwMCwtMzk2MTkwNzA0LDYzOD
+IwOTI4MiwtNzE4NjkyMDQsNzY5NjQwMjkwLDExODQwMzI1NzYs
+MjA4MzYzNzE1Nyw1ODczODE5MDUsLTE5NzUxNzYzMDMsLTYyOT
+IzNzgwNiwtOTQ4MTU3OTE0LDkyODcwODA2MCwtMzUxMTc0Njky
+LDE2NjI2MDIxOTAsODgzNzgzMzQ0LDE3NzUwOTQ1MjQsODEzOD
+QzODY0LC0xNjg0MTMyMDg5LC0xNTY1OTgyMTIwLC0xMzc1MzU1
+NDZdfQ==
 -->
