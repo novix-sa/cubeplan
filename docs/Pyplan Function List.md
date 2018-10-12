@@ -2,15 +2,12 @@ dataArray(self,coords, values=None,dtype=None):
         Create a dataArray  
 
 
-**index(self,values):**
-Create a coord object from list of values
-
-    enter code here
-
-      
+**index( list of values ):**        Create a coord object from list of values
+pp.index(['Item 1', 'Item 2', 'Item 3'])        
+        
 
 
-    createTime(self,date_start,date_end,freq='M',format='%Y.%m'):
+ createTime(self,date_start,date_end,freq='M',format='%Y.%m'):
         Create time index usign start and end dates and freq. The result is formated to format parameter
             Ex.
                 cp.createTime('2016.01','2018.12')
@@ -18,11 +15,11 @@ Create a coord object from list of values
         
 
 		
-    selfArray(self,index):
+  selfArray(self,index):
         Create an array from index
         
 		
-    changeIndex(self,array,oldIndex,newIndex,compareMode=1,defaultValue=None):
+ changeIndex(self,array,oldIndex,newIndex,compareMode=1,defaultValue=None):
         Change index of a dataArray object.
             TODO: samples
         
@@ -260,5 +257,5 @@ Create a coord object from list of values
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzA3NDEwN119
+eyJoaXN0b3J5IjpbLTI0NDYxMzEyM119
 -->
