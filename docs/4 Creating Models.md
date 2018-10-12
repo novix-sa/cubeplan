@@ -5,8 +5,11 @@ Drag and drop elements
 Hierarchical organization
 Dependencies
 ## Indices and Nodes
+pp.index()
+pp.dataArray()
+
 ## Element Properties
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzA1Mjg1NiwtNTgzMjMzMzA0XX0=
+eyJoaXN0b3J5IjpbMTkzODUyMTY1MywtNTgzMjMzMzA0XX0=
 -->
