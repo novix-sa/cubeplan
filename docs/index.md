@@ -26,12 +26,10 @@ Double clicking the node (or Ctrl R), it is evaluated, showing it result as a ta
 App screens or interfaces are created draging and droping indexes or nodes on to a canvas.
 Indexes are transformed into selecting tools (drop down or list). They automatically act as a filter for the equivalent dimension of any visualized array.
 Screens can be linked to define navigation paths and menus created for easy of final users.  
-
-Any step in the process could be used as an Input/Output module. Nodes and Indexes are the building blocks of user interfaces.
-Menus for navigating apps can be easily defined. Apps can be shared between partners or even to the general public through shareable links.
+Apps can be shared between partners or even to the general public through shareable links.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjAyMjk4NywtMTgwNjA2OTAwOCwtMz
+eyJoaXN0b3J5IjpbMTg3MzM1NDgxMywtMTgwNjA2OTAwOCwtMz
 k2MTkwNzA0LDYzODIwOTI4MiwtNzE4NjkyMDQsNzY5NjQwMjkw
 LDExODQwMzI1NzYsMjA4MzYzNzE1Nyw1ODczODE5MDUsLTE5Nz
 UxNzYzMDMsLTYyOTIzNzgwNiwtOTQ4MTU3OTE0LDkyODcwODA2
