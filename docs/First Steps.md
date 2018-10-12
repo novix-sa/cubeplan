@@ -1,6 +1,8 @@
 
 # First steps in Pyplan  
-This section presents the basic concepts such as: 1) log in, log out and edit profile, 2) main window, property bar and widgets.
+This section presents the basic concepts such as: 
+1) log in, log out and edit profile, 
+2) main window, property bar and widgets.
 
 -   [Summary](/Pyplan/1-Introduction/Intro)
 -   [Sign up](/Pyplan/1-Introduction/Sign%20up)
@@ -75,5 +77,5 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDM2MTY2M119
+eyJoaXN0b3J5IjpbLTYxNjA3Mzc5MSwtMzIwMzYxNjYzXX0=
 -->
