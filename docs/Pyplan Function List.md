@@ -3,9 +3,11 @@ dataArray(self,coords, values=None,dtype=None):
 
 
 **index(self,values):**
-        Create a coord object from list of values
-            TODO: samples        
-        
+Create a coord object from list of values
+
+    enter code here
+
+      
 
 
     createTime(self,date_start,date_end,freq='M',format='%Y.%m'):
@@ -258,5 +260,5 @@ dataArray(self,coords, values=None,dtype=None):
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTM0OTE1NV19
+eyJoaXN0b3J5IjpbLTgyNzA3NDEwN119
 -->
