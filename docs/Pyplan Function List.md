@@ -8,7 +8,7 @@ dataArray(self,coords, values=None,dtype=None):
 |Function (*parameters*)|Description|
 |--|--|
 |[`index`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_table.html#pandas.read_table "pandas.read_table")(list of elements)|Create an index|
-|dataArray()||
+|[dataArray](www.pending.com)(list of ind||
 
         
 
@@ -263,5 +263,5 @@ dataArray(self,coords, values=None,dtype=None):
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkxNTk2ODksLTM2MjQwODQ0MV19
+eyJoaXN0b3J5IjpbLTM4MDM4MzAyLC0zNjI0MDg0NDFdfQ==
 -->
